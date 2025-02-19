@@ -1,0 +1,5 @@
+{
+  "fab98126-ec19-41df-ada6-924904c8cacb.jpg" : "Optional(<ARCamera: 0x3048f4f00 imageResolution=(1920, 1440) exposureDuration=0 exposureOffset=0 focalLength=(1423.836, 1423.836) principalPoint=(959.496, 720.200) trackingState=Normal transform=<translation=(-0.375003 0.234659 -0.193946) rotation=(-7.91° 105.12° -91.55°)>>) [-0.4083172, 0.15795599, -2.3803654]",
+  "3d2a4bf4-20b5-443a-9121-062650c5079d.jpg" : "Optional(<ARCamera: 0x3048e2800 imageResolution=(1920, 1440) exposureDuration=0 exposureOffset=0 focalLength=(1423.920, 1423.920) principalPoint=(959.427, 719.878) trackingState=Normal transform=<translation=(-1.618397 0.235645 4.180367) rotation=(-8.92° 17.27° -90.44°)>>) [-1.6517112, 0.15894271, 1.993948]",
+  "112df2f1-ef09-4065-9678-3c6329227a26.jpg" : "Optional(<ARCamera: 0x30483f600 imageResolution=(1920, 1440) exposureDuration=0 exposureOffset=0 focalLength=(1422.869, 1422.869) principalPoint=(959.503, 720.008) trackingState=Normal transform=<translation=(2.334548 0.174674 -1.141862) rotation=(-9.55° 115.52° -90.17°)>>) [2.8931797, 0.07993902, -3.7380857]"
+}

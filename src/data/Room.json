@@ -1,0 +1,5347 @@
+{
+    "doors": [
+        {
+            "story": 0,
+            "parentIdentifier": "E0127EF1-C7FF-4ABB-B1B0-487556585789",
+            "completedEdges": [
+                {
+                    "right": {}
+                },
+                {
+                    "left": {}
+                },
+                {
+                    "bottom": {}
+                },
+                {
+                    "top": {}
+                }
+            ],
+            "category": {
+                "door": {
+                    "isOpen": false
+                }
+            },
+            "polygonCorners": [],
+            "dimensions": [
+                0.6567721,
+                2.0091784,
+                0.08200975
+            ],
+            "confidence": {
+                "high": {}
+            },
+            "transform": [
+                -0.16185242,
+                0,
+                0.986815,
+                0,
+                0,
+                0.99999994,
+                0,
+                0,
+                -0.98681504,
+                0,
+                -0.16185243,
+                0,
+                0.097586036,
+                -0.507971,
+                -3.2505345,
+                1
+            ],
+            "identifier": "3D92D2D0-FE28-433E-9BF6-CE399B37244C",
+            "curve": null
+        },
+        {
+            "dimensions": [
+                0.6436655,
+                2.1077876,
+                0.08200975
+            ],
+            "category": {
+                "door": {
+                    "isOpen": false
+                }
+            },
+            "curve": null,
+            "completedEdges": [
+                {
+                    "left": {}
+                },
+                {
+                    "bottom": {}
+                },
+                {
+                    "right": {}
+                },
+                {
+                    "top": {}
+                }
+            ],
+            "confidence": {
+                "medium": {}
+            },
+            "story": 0,
+            "identifier": "53DD4619-27F6-4643-902C-49CD9730A31F",
+            "parentIdentifier": "E0127EF1-C7FF-4ABB-B1B0-487556585789",
+            "polygonCorners": [],
+            "transform": [
+                -0.16185236,
+                0,
+                0.986815,
+                0,
+                0,
+                0.99999994,
+                0,
+                0,
+                -0.98681504,
+                0,
+                -0.16185237,
+                0,
+                -0.2189073,
+                -0.4586664,
+                -1.3208733,
+                1
+            ]
+        },
+        {
+            "story": 0,
+            "completedEdges": [
+                {
+                    "bottom": {}
+                },
+                {
+                    "left": {}
+                },
+                {
+                    "right": {}
+                },
+                {
+                    "top": {}
+                }
+            ],
+            "curve": null,
+            "dimensions": [
+                0.9669411,
+                2.2074542,
+                0
+            ],
+            "category": {
+                "door": {
+                    "isOpen": false
+                }
+            },
+            "transform": [
+                0.16185202,
+                0,
+                -0.98681504,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0.98681504,
+                0,
+                0.16185203,
+                0,
+                -4.11852,
+                -0.40883306,
+                -1.2773548,
+                1
+            ],
+            "confidence": {
+                "medium": {}
+            },
+            "parentIdentifier": "96CBE49A-EC56-4274-9B58-F5DD87C89EA8",
+            "polygonCorners": [],
+            "identifier": "65024CDC-8046-4101-9378-C5FEF0F93737"
+        },
+        {
+            "parentIdentifier": "A574AC66-B644-47C2-B262-E610652032DC",
+            "story": 0,
+            "confidence": {
+                "high": {}
+            },
+            "completedEdges": [
+                {
+                    "right": {}
+                },
+                {
+                    "left": {}
+                },
+                {
+                    "bottom": {}
+                },
+                {
+                    "top": {}
+                }
+            ],
+            "polygonCorners": [],
+            "transform": [
+                0.98681504,
+                0,
+                0.16185236,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -0.16185234,
+                0,
+                0.98681504,
+                0,
+                -2.1613324,
+                -0.45040688,
+                -3.1194344,
+                1
+            ],
+            "dimensions": [
+                0.64462715,
+                2.1243067,
+                0
+            ],
+            "category": {
+                "door": {
+                    "isOpen": false
+                }
+            },
+            "curve": null,
+            "identifier": "542989BE-832E-4F45-82C7-74DB30C113C7"
+        },
+        {
+            "story": 0,
+            "transform": [
+                0.16185245,
+                0,
+                -0.98681504,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0.98681504,
+                0,
+                0.16185246,
+                0,
+                -0.060252845,
+                -0.46147254,
+                -2.2881896,
+                1
+            ],
+            "confidence": {
+                "medium": {}
+            },
+            "curve": null,
+            "polygonCorners": [],
+            "completedEdges": [
+                {
+                    "left": {}
+                },
+                {
+                    "top": {}
+                },
+                {
+                    "right": {}
+                },
+                {
+                    "bottom": {}
+                }
+            ],
+            "identifier": "98B90E29-C557-472F-845B-2594AC73F26D",
+            "category": {
+                "door": {
+                    "isOpen": true
+                }
+            },
+            "dimensions": [
+                0.7682864,
+                2.1021752,
+                0.08200975
+            ],
+            "parentIdentifier": "E0127EF1-C7FF-4ABB-B1B0-487556585789"
+        },
+        {
+            "parentIdentifier": "E0127EF1-C7FF-4ABB-B1B0-487556585789",
+            "transform": [
+                0.1618524,
+                0,
+                -0.986815,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0.986815,
+                0,
+                0.16185242,
+                0,
+                -0.3719837,
+                -0.48955783,
+                -0.38756537,
+                1
+            ],
+            "category": {
+                "door": {
+                    "isOpen": true
+                }
+            },
+            "completedEdges": [
+                {
+                    "top": {}
+                },
+                {
+                    "left": {}
+                },
+                {
+                    "bottom": {}
+                },
+                {
+                    "right": {}
+                }
+            ],
+            "confidence": {
+                "high": {}
+            },
+            "curve": null,
+            "dimensions": [
+                0.74261725,
+                2.0460048,
+                0.08200975
+            ],
+            "identifier": "964D86E2-27EF-44E8-BDC9-8A01B8E7F6A9",
+            "story": 0,
+            "polygonCorners": []
+        },
+        {
+            "dimensions": [
+                0.5816142,
+                2.0370128,
+                0
+            ],
+            "completedEdges": [
+                {
+                    "top": {}
+                },
+                {
+                    "bottom": {}
+                },
+                {
+                    "left": {}
+                },
+                {
+                    "right": {}
+                }
+            ],
+            "confidence": {
+                "medium": {}
+            },
+            "identifier": "43A25862-F6A2-4D77-8469-2EB4D9B3DF38",
+            "polygonCorners": [],
+            "category": {
+                "door": {
+                    "isOpen": true
+                }
+            },
+            "story": 0,
+            "transform": [
+                -0.98681545,
+                0,
+                -0.16184974,
+                0,
+                0,
+                0.99999994,
+                0,
+                0,
+                0.1618497,
+                0,
+                -0.9868154,
+                0,
+                2.6906865,
+                -0.4940538,
+                -1.2994227,
+                1
+            ],
+            "parentIdentifier": "4D7A6C60-3D56-4D1A-949F-E4C041B44392",
+            "curve": null
+        },
+        {
+            "parentIdentifier": "3A82529C-2B19-44AE-BD85-000855AF65D9",
+            "completedEdges": [
+                {
+                    "left": {}
+                },
+                {
+                    "bottom": {}
+                },
+                {
+                    "top": {}
+                },
+                {
+                    "right": {}
+                }
+            ],
+            "category": {
+                "door": {
+                    "isOpen": true
+                }
+            },
+            "identifier": "6B2B546F-8574-439B-A931-08A80D461510",
+            "confidence": {
+                "medium": {}
+            },
+            "curve": null,
+            "dimensions": [
+                0.5683355,
+                2.054024,
+                0.08200975
+            ],
+            "transform": [
+                0.986815,
+                0,
+                0.16185263,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -0.16185261,
+                0,
+                0.986815,
+                0,
+                1.6089495,
+                -0.48554823,
+                0.11595392,
+                1
+            ],
+            "story": 0,
+            "polygonCorners": []
+        },
+        {
+            "identifier": "6E6A9C20-E723-4B36-8AA5-B97DED7B391B",
+            "dimensions": [
+                0.82751936,
+                2.1727536,
+                0
+            ],
+            "curve": null,
+            "parentIdentifier": "96CBE49A-EC56-4274-9B58-F5DD87C89EA8",
+            "completedEdges": [
+                {
+                    "right": {}
+                },
+                {
+                    "left": {}
+                },
+                {
+                    "bottom": {}
+                },
+                {
+                    "top": {}
+                }
+            ],
+            "polygonCorners": [],
+            "story": 0,
+            "transform": [
+                0.16185212,
+                0,
+                -0.9868151,
+                0,
+                0,
+                0.99999994,
+                0,
+                0,
+                0.98681504,
+                0,
+                0.16185212,
+                0,
+                -3.9360313,
+                -0.42618343,
+                -2.3899891,
+                1
+            ],
+            "confidence": {
+                "medium": {}
+            },
+            "category": {
+                "door": {
+                    "isOpen": true
+                }
+            }
+        }
+    ],
+    "objects": [
+        {
+            "category": {
+                "bed": {}
+            },
+            "story": 0,
+            "transform": [
+                -0.16185242,
+                0,
+                0.9868149,
+                0,
+                0,
+                0.99999994,
+                0,
+                0,
+                -0.98681486,
+                0,
+                -0.16185243,
+                0,
+                -1.7766771,
+                -1.1512218,
+                0.7478783,
+                1
+            ],
+            "dimensions": [
+                1.7021677,
+                0.7226771,
+                2.1382027
+            ],
+            "confidence": {
+                "medium": {}
+            },
+            "identifier": "1C96735A-CED6-4F5D-80E1-4CB9B2E826D8",
+            "parentIdentifier": null,
+            "attributes": {}
+        },
+        {
+            "transform": [
+                -0.16185254,
+                0,
+                0.986815,
+                0,
+                0,
+                0.99999994,
+                0,
+                0,
+                -0.9868149,
+                0,
+                -0.16185254,
+                0,
+                -1.4130844,
+                -1.0831933,
+                2.4233077,
+                1
+            ],
+            "attributes": {
+                "SofaType": "singleSeat"
+            },
+            "confidence": {
+                "low": {}
+            },
+            "identifier": "2025D078-7251-49F5-B50B-9A26AB6907EF",
+            "dimensions": [
+                1.1913813,
+                0.858734,
+                1.0628451
+            ],
+            "parentIdentifier": null,
+            "story": 0,
+            "category": {
+                "sofa": {}
+            }
+        },
+        {
+            "transform": [
+                0.98681504,
+                0,
+                0.16185223,
+                0,
+                0,
+                0.9999999,
+                0,
+                0,
+                -0.16185218,
+                0,
+                0.9868149,
+                0,
+                1.7592986,
+                -1.1865659,
+                -3.8052692,
+                1
+            ],
+            "category": {
+                "bed": {}
+            },
+            "identifier": "9C7B758C-F47A-4659-95E2-8CB04CEF224D",
+            "attributes": {},
+            "story": 0,
+            "confidence": {
+                "medium": {}
+            },
+            "dimensions": [
+                1.0185547,
+                0.65198874,
+                2.0593407
+            ],
+            "parentIdentifier": null
+        },
+        {
+            "category": {
+                "chair": {}
+            },
+            "attributes": {
+                "ChairArmType": "missing",
+                "ChairLegType": "star",
+                "ChairType": "swivel",
+                "ChairBackType": "existing"
+            },
+            "story": 0,
+            "dimensions": [
+                0.74367213,
+                0.9494461,
+                0.7495314
+            ],
+            "identifier": "D084821C-92D4-458E-8FB1-EB2502A5396E",
+            "parentIdentifier": null,
+            "confidence": {
+                "low": {}
+            },
+            "transform": [
+                0.9856803,
+                0,
+                -0.16862538,
+                0,
+                0,
+                0.99999994,
+                0,
+                0,
+                0.16862538,
+                0,
+                0.9856802,
+                0,
+                -2.1578372,
+                -1.0378373,
+                -2.6168883,
+                1
+            ]
+        },
+        {
+            "attributes": {
+                "TableShapeType": "rectangular",
+                "TableType": "unidentified"
+            },
+            "identifier": "AFDCD3E1-9036-4E1E-B7C2-822F8ED473A7",
+            "parentIdentifier": null,
+            "confidence": {
+                "high": {}
+            },
+            "transform": [
+                -0.16185224,
+                0,
+                0.98681504,
+                0,
+                0,
+                0.99999994,
+                0,
+                0,
+                -0.986815,
+                0,
+                -0.16185224,
+                0,
+                2.7342076,
+                -1.1131692,
+                2.2376788,
+                1
+            ],
+            "story": 0,
+            "dimensions": [
+                1.0196995,
+                0.7987821,
+                0.61123294
+            ],
+            "category": {
+                "table": {}
+            }
+        },
+        {
+            "parentIdentifier": null,
+            "confidence": {
+                "low": {}
+            },
+            "category": {
+                "chair": {}
+            },
+            "dimensions": [
+                0.60182655,
+                1.1250329,
+                0.6758013
+            ],
+            "identifier": "9A6DE607-8E5E-485E-ADA1-09F578039350",
+            "transform": [
+                -0.937263,
+                0,
+                0.34862316,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -0.3486232,
+                0,
+                -0.937263,
+                0,
+                -3.1959898,
+                -0.9500436,
+                1.7225988,
+                1
+            ],
+            "attributes": {
+                "ChairArmType": "existing",
+                "ChairType": "swivel",
+                "ChairLegType": "star",
+                "ChairBackType": "existing"
+            },
+            "story": 0
+        },
+        {
+            "confidence": {
+                "low": {}
+            },
+            "story": 0,
+            "category": {
+                "storage": {}
+            },
+            "dimensions": [
+                0.7921544,
+                1.0943888,
+                0.465565
+            ],
+            "identifier": "D8EEB33C-361C-4682-8DC8-AF01AABC172F",
+            "attributes": {
+                "StorageType": "cabinet"
+            },
+            "transform": [
+                -0.98681504,
+                0,
+                -0.16185206,
+                0,
+                0,
+                1.0000001,
+                0,
+                0,
+                0.16185206,
+                0,
+                -0.98681515,
+                0,
+                2.4708498,
+                -0.9653658,
+                -0.020127058,
+                1
+            ],
+            "parentIdentifier": null
+        },
+        {
+            "attributes": {
+                "StorageType": "shelf"
+            },
+            "dimensions": [
+                1.0263873,
+                0.9514457,
+                0.41151878
+            ],
+            "category": {
+                "storage": {}
+            },
+            "identifier": "865D5D2F-2EDB-4773-AB18-01A708DA8D7E",
+            "transform": [
+                0.16185234,
+                0,
+                -0.9868149,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0.9868149,
+                0,
+                0.16185237,
+                0,
+                -3.9310656,
+                -1.0368373,
+                -0.74070823,
+                1
+            ],
+            "story": 0,
+            "confidence": {
+                "low": {}
+            },
+            "parentIdentifier": null
+        },
+        {
+            "identifier": "C735479D-2864-4042-843E-65A02128DDA4",
+            "parentIdentifier": null,
+            "category": {
+                "storage": {}
+            },
+            "story": 0,
+            "confidence": {
+                "high": {}
+            },
+            "dimensions": [
+                1.2955762,
+                0.68965125,
+                0.36678597
+            ],
+            "attributes": {
+                "StorageType": "shelf"
+            },
+            "transform": [
+                0.98681504,
+                0,
+                0.16185258,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -0.16185257,
+                0,
+                0.98681504,
+                0,
+                2.6696293,
+                -1.1677346,
+                0.5173187,
+                1
+            ]
+        },
+        {
+            "story": 0,
+            "transform": [
+                -0.16185229,
+                0,
+                0.986815,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -0.986815,
+                0,
+                -0.1618523,
+                0,
+                -2.4582832,
+                -1.2628036,
+                2.1590817,
+                1
+            ],
+            "category": {
+                "table": {}
+            },
+            "dimensions": [
+                1.1158477,
+                0.49951327,
+                0.6461966
+            ],
+            "identifier": "BDF68204-197D-476D-8C78-F391D0077208",
+            "parentIdentifier": null,
+            "confidence": {
+                "high": {}
+            },
+            "attributes": {
+                "TableType": "coffee",
+                "TableShapeType": "rectangular"
+            }
+        },
+        {
+            "identifier": "88D34D43-F731-482C-AAAB-39463A437E74",
+            "parentIdentifier": null,
+            "confidence": {
+                "high": {}
+            },
+            "story": 0,
+            "category": {
+                "storage": {}
+            },
+            "dimensions": [
+                0.82506317,
+                1.0080333,
+                0.4281692
+            ],
+            "transform": [
+                -0.16185232,
+                0,
+                0.986815,
+                0,
+                0,
+                0.99999994,
+                0,
+                0,
+                -0.9868149,
+                0,
+                -0.16185232,
+                0,
+                3.620188,
+                -1.0085435,
+                -2.5986247,
+                1
+            ],
+            "attributes": {
+                "StorageType": "shelf"
+            }
+        },
+        {
+            "attributes": {
+                "StorageType": "shelf"
+            },
+            "story": 0,
+            "transform": [
+                0.16185197,
+                0,
+                -0.98681504,
+                0,
+                0,
+                0.99999994,
+                0,
+                0,
+                0.986815,
+                0,
+                0.16185197,
+                0,
+                -4.205935,
+                -0.8792767,
+                0.24349666,
+                1
+            ],
+            "dimensions": [
+                0.7798048,
+                1.2665671,
+                0.31978148
+            ],
+            "parentIdentifier": null,
+            "category": {
+                "storage": {}
+            },
+            "identifier": "7EF9E47A-3242-419C-9629-DE2B07BF20AC",
+            "confidence": {
+                "low": {}
+            }
+        },
+        {
+            "identifier": "E0DD731F-B024-40C0-9100-4C83D5D7BD5A",
+            "parentIdentifier": null,
+            "category": {
+                "storage": {}
+            },
+            "story": 0,
+            "dimensions": [
+                0.6905754,
+                0.66509193,
+                0.6333009
+            ],
+            "attributes": {
+                "StorageType": "cabinet"
+            },
+            "transform": [
+                0.16185242,
+                0,
+                -0.986815,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0.986815,
+                0,
+                0.16185243,
+                0,
+                0.7354739,
+                -1.1800143,
+                -2.5926857,
+                1
+            ],
+            "confidence": {
+                "low": {}
+            }
+        },
+        {
+            "story": 0,
+            "attributes": {
+                "StorageType": "shelf"
+            },
+            "parentIdentifier": null,
+            "identifier": "2495EBB5-CCF1-49C4-B80D-A9D241524E6F",
+            "dimensions": [
+                0.7230625,
+                0.7215839,
+                0.42331687
+            ],
+            "category": {
+                "storage": {}
+            },
+            "transform": [
+                0.9868151,
+                0,
+                0.16185227,
+                0,
+                0,
+                0.99999994,
+                0,
+                0,
+                -0.16185224,
+                0,
+                0.98681504,
+                0,
+                3.0846531,
+                -1.1517682,
+                -4.416833,
+                1
+            ],
+            "confidence": {
+                "high": {}
+            }
+        },
+        {
+            "attributes": {
+                "StorageType": "shelf"
+            },
+            "confidence": {
+                "high": {}
+            },
+            "parentIdentifier": null,
+            "category": {
+                "storage": {}
+            },
+            "identifier": "4BA507BE-D51B-420B-97FD-C88DFA5E616F",
+            "dimensions": [
+                0.69186616,
+                0.68519187,
+                0.38222814
+            ],
+            "transform": [
+                0.98681504,
+                0,
+                0.16185229,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -0.16185227,
+                0,
+                0.98681504,
+                0,
+                0.7472765,
+                -1.1699643,
+                -4.8210163,
+                1
+            ],
+            "story": 0
+        },
+        {
+            "identifier": "9D0A6392-DF43-4555-981E-E3FE7815003F",
+            "story": 0,
+            "transform": [
+                0.14084162,
+                0,
+                -0.9900322,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0.9900322,
+                0,
+                0.14084163,
+                0,
+                2.17912,
+                -0.9579887,
+                2.2632873,
+                1
+            ],
+            "confidence": {
+                "low": {}
+            },
+            "dimensions": [
+                0.515625,
+                1.1091431,
+                0.62548864
+            ],
+            "category": {
+                "chair": {}
+            },
+            "parentIdentifier": null,
+            "attributes": {}
+        }
+    ],
+    "openings": [
+        {
+            "transform": [
+                0.986815,
+                0,
+                0.16185239,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -0.16185237,
+                0,
+                0.986815,
+                0,
+                -1.0934876,
+                -0.48110667,
+                -2.9442918,
+                1
+            ],
+            "confidence": {
+                "high": {}
+            },
+            "completedEdges": [
+                {
+                    "right": {}
+                },
+                {
+                    "left": {}
+                },
+                {
+                    "bottom": {}
+                },
+                {
+                    "top": {}
+                }
+            ],
+            "parentIdentifier": "A574AC66-B644-47C2-B262-E610652032DC",
+            "polygonCorners": [],
+            "category": {
+                "opening": {}
+            },
+            "identifier": "986CB5E6-0D70-4578-B38A-4B160C3BF5E8",
+            "story": 0,
+            "dimensions": [
+                0.5770346,
+                2.0629072,
+                0
+            ],
+            "curve": null
+        }
+    ],
+    "walls": [
+        {
+            "dimensions": [
+                2.7495744,
+                2.43812,
+                0
+            ],
+            "completedEdges": [
+                {
+                    "bottom": {}
+                },
+                {
+                    "top": {}
+                },
+                {
+                    "right": {}
+                },
+                {
+                    "left": {}
+                }
+            ],
+            "polygonCorners": [],
+            "category": {
+                "wall": {}
+            },
+            "parentIdentifier": null,
+            "story": 0,
+            "confidence": {
+                "high": {}
+            },
+            "identifier": "3A82529C-2B19-44AE-BD85-000855AF65D9",
+            "transform": [
+                0.98681504,
+                0,
+                0.16185236,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -0.16185234,
+                0,
+                0.98681504,
+                0,
+                1.9885349,
+                -0.2935002,
+                0.17821169,
+                1
+            ],
+            "curve": null
+        },
+        {
+            "curve": null,
+            "category": {
+                "wall": {}
+            },
+            "confidence": {
+                "high": {}
+            },
+            "identifier": "E0127EF1-C7FF-4ABB-B1B0-487556585789",
+            "transform": [
+                -0.1618524,
+                0,
+                0.98681504,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -0.98681504,
+                0,
+                -0.16185242,
+                0,
+                -0.274123,
+                -0.2935002,
+                -0.9842223,
+                1
+            ],
+            "parentIdentifier": null,
+            "story": 0,
+            "completedEdges": [
+                {
+                    "left": {}
+                },
+                {
+                    "bottom": {}
+                },
+                {
+                    "top": {}
+                },
+                {
+                    "right": {}
+                }
+            ],
+            "polygonCorners": [],
+            "dimensions": [
+                8.285272,
+                2.43812,
+                0
+            ]
+        },
+        {
+            "dimensions": [
+                4.9335437,
+                2.43812,
+                0
+            ],
+            "transform": [
+                -0.16185224,
+                0,
+                0.98681504,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -0.98681504,
+                0,
+                -0.16185226,
+                0,
+                3.2003422,
+                -0.2935002,
+                1.2838967,
+                1
+            ],
+            "story": 0,
+            "curve": null,
+            "completedEdges": [
+                {
+                    "top": {}
+                },
+                {
+                    "bottom": {}
+                },
+                {
+                    "left": {}
+                },
+                {
+                    "right": {}
+                }
+            ],
+            "parentIdentifier": null,
+            "category": {
+                "wall": {}
+            },
+            "polygonCorners": [],
+            "confidence": {
+                "high": {}
+            },
+            "identifier": "83E76B9B-9A42-47DE-9C2F-A3218AE862BE"
+        },
+        {
+            "dimensions": [
+                3.3517275,
+                2.43812,
+                0
+            ],
+            "story": 0,
+            "category": {
+                "wall": {}
+            },
+            "transform": [
+                -0.16185232,
+                0,
+                0.98681504,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -0.98681504,
+                0,
+                -0.16185233,
+                0,
+                3.8708372,
+                -0.2935002,
+                -2.8041182,
+                1
+            ],
+            "polygonCorners": [],
+            "parentIdentifier": null,
+            "identifier": "5D75314C-4C50-4EBF-937D-31DFB9E51A1E",
+            "curve": null,
+            "completedEdges": [
+                {
+                    "bottom": {}
+                },
+                {
+                    "top": {}
+                },
+                {
+                    "right": {}
+                },
+                {
+                    "left": {}
+                }
+            ],
+            "confidence": {
+                "high": {}
+            }
+        },
+        {
+            "category": {
+                "wall": {}
+            },
+            "identifier": "F4CEC229-121F-4D9E-8D3E-05674ED42F99",
+            "curve": null,
+            "transform": [
+                -0.16185226,
+                0,
+                0.9868151,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -0.9868151,
+                0,
+                -0.16185227,
+                0,
+                2.122417,
+                -0.2935002,
+                -0.5962281,
+                1
+            ],
+            "story": 0,
+            "confidence": {
+                "high": {}
+            },
+            "parentIdentifier": null,
+            "dimensions": [
+                1.5717953,
+                2.43812,
+                0
+            ],
+            "completedEdges": [
+                {
+                    "bottom": {}
+                },
+                {
+                    "right": {}
+                },
+                {
+                    "top": {}
+                },
+                {
+                    "left": {}
+                }
+            ],
+            "polygonCorners": []
+        },
+        {
+            "completedEdges": [
+                {
+                    "top": {}
+                },
+                {
+                    "left": {}
+                },
+                {
+                    "bottom": {}
+                },
+                {
+                    "right": {}
+                }
+            ],
+            "story": 0,
+            "transform": [
+                -0.986815,
+                0,
+                -0.16185226,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0.16185224,
+                0,
+                -0.986815,
+                0,
+                1.0517516,
+                -0.2935002,
+                -1.5682312,
+                1
+            ],
+            "curve": null,
+            "confidence": {
+                "high": {}
+            },
+            "polygonCorners": [],
+            "parentIdentifier": null,
+            "identifier": "7179F2E9-27EF-474C-B237-DAB2A2A2E2C7",
+            "category": {
+                "wall": {}
+            },
+            "dimensions": [
+                2.427739,
+                2.43812,
+                0
+            ]
+        },
+        {
+            "parentIdentifier": null,
+            "polygonCorners": [],
+            "story": 0,
+            "completedEdges": [
+                {
+                    "left": {}
+                },
+                {
+                    "bottom": {}
+                },
+                {
+                    "right": {}
+                },
+                {
+                    "top": {}
+                }
+            ],
+            "curve": null,
+            "confidence": {
+                "high": {}
+            },
+            "dimensions": [
+                3.795755,
+                2.43812,
+                0
+            ],
+            "identifier": "667267A7-19A4-4B66-BD74-0533AA0C1C66",
+            "transform": [
+                -0.98681504,
+                0,
+                -0.16185221,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0.1618522,
+                0,
+                -0.98681504,
+                0,
+                0.92823553,
+                -0.2935002,
+                3.4109685,
+                1
+            ],
+            "category": {
+                "wall": {}
+            }
+        },
+        {
+            "curve": null,
+            "parentIdentifier": null,
+            "dimensions": [
+                3.841152,
+                2.43812,
+                0
+            ],
+            "completedEdges": [
+                {
+                    "left": {}
+                },
+                {
+                    "right": {}
+                },
+                {
+                    "bottom": {}
+                },
+                {
+                    "top": {}
+                }
+            ],
+            "category": {
+                "wall": {}
+            },
+            "story": 0,
+            "polygonCorners": [],
+            "transform": [
+                -0.98681504,
+                0,
+                -0.16185218,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0.16185217,
+                0,
+                -0.98681504,
+                0,
+                -2.839872,
+                -0.2935002,
+                2.7929437,
+                1
+            ],
+            "identifier": "6C43AB0D-FE3F-4656-943E-42FEBD75E4A5",
+            "confidence": {
+                "high": {}
+            }
+        },
+        {
+            "parentIdentifier": null,
+            "polygonCorners": [],
+            "completedEdges": [
+                {
+                    "bottom": {}
+                },
+                {
+                    "left": {}
+                },
+                {
+                    "top": {}
+                },
+                {
+                    "right": {}
+                }
+            ],
+            "story": 0,
+            "dimensions": [
+                3.7957542,
+                2.43812,
+                0
+            ],
+            "confidence": {
+                "high": {}
+            },
+            "category": {
+                "wall": {}
+            },
+            "identifier": "DBC7C197-22D3-45BA-B6DD-CD11FE35468F",
+            "curve": null,
+            "transform": [
+                0.9868149,
+                0,
+                0.16185226,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -0.16185226,
+                0,
+                0.98681504,
+                0,
+                2.269226,
+                -0.2935002,
+                -4.7650614,
+                1
+            ]
+        },
+        {
+            "transform": [
+                -0.9868154,
+                0,
+                -0.16184978,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0.16184977,
+                0,
+                -0.9868154,
+                0,
+                2.9246056,
+                -0.2935002,
+                -1.2610573,
+                1
+            ],
+            "polygonCorners": [],
+            "parentIdentifier": null,
+            "story": 0,
+            "completedEdges": [
+                {
+                    "bottom": {}
+                },
+                {
+                    "top": {}
+                },
+                {
+                    "left": {}
+                },
+                {
+                    "right": {}
+                }
+            ],
+            "confidence": {
+                "high": {}
+            },
+            "identifier": "4D7A6C60-3D56-4D1A-949F-E4C041B44392",
+            "curve": null,
+            "category": {
+                "wall": {}
+            },
+            "dimensions": [
+                1.3680153,
+                2.43812,
+                0
+            ]
+        },
+        {
+            "parentIdentifier": null,
+            "category": {
+                "wall": {}
+            },
+            "polygonCorners": [],
+            "dimensions": [
+                0.44989747,
+                2.43812,
+                0
+            ],
+            "transform": [
+                0.9868149,
+                0,
+                0.16185236,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -0.16185236,
+                0,
+                0.98681504,
+                0,
+                1.0326214,
+                -0.2935002,
+                -1.0978218,
+                1
+            ],
+            "identifier": "64FEEB22-D76F-471A-93E6-71336CD7143A",
+            "confidence": {
+                "high": {}
+            },
+            "curve": null,
+            "completedEdges": [
+                {
+                    "right": {}
+                },
+                {
+                    "left": {}
+                },
+                {
+                    "bottom": {}
+                },
+                {
+                    "top": {}
+                }
+            ],
+            "story": 0
+        },
+        {
+            "completedEdges": [
+                {
+                    "top": {}
+                },
+                {
+                    "right": {}
+                },
+                {
+                    "bottom": {}
+                },
+                {
+                    "left": {}
+                }
+            ],
+            "category": {
+                "wall": {}
+            },
+            "transform": [
+                0.1618522,
+                0,
+                -0.986815,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0.986815,
+                0,
+                0.16185221,
+                0,
+                1.2924213,
+                -0.2935002,
+                -1.2919843,
+                1
+            ],
+            "curve": null,
+            "dimensions": [
+                0.4673033,
+                2.43812,
+                0
+            ],
+            "confidence": {
+                "high": {}
+            },
+            "identifier": "B2F3CA33-BEE5-40BC-AAEF-C6BA72982C31",
+            "story": 0,
+            "parentIdentifier": null,
+            "polygonCorners": []
+        },
+        {
+            "confidence": {
+                "high": {}
+            },
+            "category": {
+                "wall": {}
+            },
+            "identifier": "53884231-202B-4B15-939E-8BB8EA6AB1BD",
+            "completedEdges": [
+                {
+                    "bottom": {}
+                },
+                {
+                    "top": {}
+                },
+                {
+                    "left": {}
+                },
+                {
+                    "right": {}
+                }
+            ],
+            "curve": null,
+            "dimensions": [
+                1.04618,
+                2.43812,
+                0
+            ],
+            "transform": [
+                0.98681504,
+                0,
+                0.1618522,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -0.16185218,
+                0,
+                0.98681504,
+                0,
+                0.23540029,
+                -0.2935002,
+                -0.85889363,
+                1
+            ],
+            "parentIdentifier": null,
+            "story": 0,
+            "polygonCorners": []
+        },
+        {
+            "confidence": {
+                "high": {}
+            },
+            "polygonCorners": [],
+            "category": {
+                "wall": {}
+            },
+            "story": 0,
+            "curve": null,
+            "identifier": "BD40DD98-75BB-4273-B53A-C251C16FCD81",
+            "dimensions": [
+                0.36481,
+                2.43812,
+                0
+            ],
+            "parentIdentifier": null,
+            "completedEdges": [
+                {
+                    "right": {}
+                },
+                {
+                    "top": {}
+                },
+                {
+                    "bottom": {}
+                },
+                {
+                    "left": {}
+                }
+            ],
+            "transform": [
+                0.16185224,
+                0,
+                -0.98681504,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0.98681504,
+                0,
+                0.16185226,
+                0,
+                0.781116,
+                -0.2935002,
+                -0.9542304,
+                1
+            ]
+        },
+        {
+            "polygonCorners": [],
+            "story": 0,
+            "identifier": "A9A49B34-BF52-4799-A8DC-634A324296A0",
+            "dimensions": [
+                0.73968214,
+                2.43812,
+                0
+            ],
+            "parentIdentifier": null,
+            "confidence": {
+                "high": {}
+            },
+            "curve": null,
+            "transform": [
+                0.16185226,
+                0,
+                -0.98681504,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0.98681504,
+                0,
+                0.16185227,
+                0,
+                0.6917337,
+                -0.2935002,
+                -0.40926552,
+                1
+            ],
+            "category": {
+                "wall": {}
+            },
+            "completedEdges": [
+                {
+                    "left": {}
+                },
+                {
+                    "right": {}
+                },
+                {
+                    "top": {}
+                },
+                {
+                    "bottom": {}
+                }
+            ]
+        },
+        {
+            "confidence": {
+                "high": {}
+            },
+            "parentIdentifier": null,
+            "story": 0,
+            "polygonCorners": [],
+            "category": {
+                "wall": {}
+            },
+            "identifier": "A574AC66-B644-47C2-B262-E610652032DC",
+            "dimensions": [
+                3.8411527,
+                2.43812,
+                0
+            ],
+            "completedEdges": [
+                {
+                    "bottom": {}
+                },
+                {
+                    "top": {}
+                },
+                {
+                    "left": {}
+                },
+                {
+                    "right": {}
+                }
+            ],
+            "curve": null,
+            "transform": [
+                0.9868151,
+                0,
+                0.1618524,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -0.16185237,
+                0,
+                0.986815,
+                0,
+                -1.8777819,
+                -0.2935002,
+                -3.0729277,
+                1
+            ]
+        },
+        {
+            "identifier": "96CBE49A-EC56-4274-9B58-F5DD87C89EA8",
+            "story": 0,
+            "category": {
+                "wall": {}
+            },
+            "dimensions": [
+                5.9442463,
+                2.43812,
+                0
+            ],
+            "confidence": {
+                "high": {}
+            },
+            "curve": null,
+            "transform": [
+                0.16185227,
+                0,
+                -0.986815,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0.986815,
+                0,
+                0.16185229,
+                0,
+                -4.254081,
+                -0.2935002,
+                -0.45084167,
+                1
+            ],
+            "completedEdges": [
+                {
+                    "right": {}
+                },
+                {
+                    "bottom": {}
+                },
+                {
+                    "left": {}
+                },
+                {
+                    "top": {}
+                }
+            ],
+            "parentIdentifier": null,
+            "polygonCorners": []
+        }
+    ],
+    "windows": [
+        {
+            "category": {
+                "window": {}
+            },
+            "completedEdges": [
+                {
+                    "bottom": {}
+                },
+                {
+                    "right": {}
+                },
+                {
+                    "top": {}
+                },
+                {
+                    "left": {}
+                }
+            ],
+            "curve": null,
+            "transform": [
+                -0.16185233,
+                0,
+                0.986815,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -0.986815,
+                0,
+                -0.16185234,
+                0,
+                3.836693,
+                0.056980945,
+                -2.5959423,
+                1
+            ],
+            "dimensions": [
+                2.04468,
+                1.3215984,
+                0
+            ],
+            "identifier": "87C07730-5BA8-44FE-B01A-9F29E4DD8CF3",
+            "polygonCorners": [],
+            "story": 0,
+            "parentIdentifier": "5D75314C-4C50-4EBF-937D-31DFB9E51A1E",
+            "confidence": {
+                "high": {}
+            }
+        },
+        {
+            "completedEdges": [
+                {
+                    "right": {}
+                },
+                {
+                    "left": {}
+                },
+                {
+                    "top": {}
+                },
+                {
+                    "bottom": {}
+                }
+            ],
+            "transform": [
+                -0.16185215,
+                0,
+                0.986815,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -0.986815,
+                0,
+                -0.16185217,
+                0,
+                3.098773,
+                0.048835494,
+                1.9031656,
+                1
+            ],
+            "confidence": {
+                "high": {}
+            },
+            "curve": null,
+            "polygonCorners": [],
+            "category": {
+                "window": {}
+            },
+            "dimensions": [
+                1.4805542,
+                1.0212411,
+                0
+            ],
+            "parentIdentifier": "83E76B9B-9A42-47DE-9C2F-A3218AE862BE",
+            "identifier": "3CF3C9B8-DE8E-4DEF-8966-59161DEFD578",
+            "story": 0
+        },
+        {
+            "polygonCorners": [],
+            "completedEdges": [
+                {
+                    "bottom": {}
+                },
+                {
+                    "top": {}
+                },
+                {
+                    "left": {}
+                },
+                {
+                    "right": {}
+                }
+            ],
+            "confidence": {
+                "high": {}
+            },
+            "category": {
+                "window": {}
+            },
+            "parentIdentifier": "6C43AB0D-FE3F-4656-943E-42FEBD75E4A5",
+            "identifier": "8F4C6A2B-9BB2-479C-A827-E7D7D71CB34C",
+            "curve": null,
+            "dimensions": [
+                0.8878215,
+                1.4321766,
+                0
+            ],
+            "transform": [
+                -0.98681504,
+                0,
+                -0.16185214,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0.16185212,
+                0,
+                -0.98681504,
+                0,
+                -2.7133198,
+                -0.11962243,
+                2.8137,
+                1
+            ],
+            "story": 0
+        },
+        {
+            "identifier": "BB0DD8FF-D74C-4D76-84DC-AD875067C521",
+            "curve": null,
+            "parentIdentifier": "6C43AB0D-FE3F-4656-943E-42FEBD75E4A5",
+            "story": 0,
+            "polygonCorners": [],
+            "dimensions": [
+                0.8536741,
+                1.3728558,
+                0
+            ],
+            "completedEdges": [
+                {
+                    "left": {}
+                },
+                {
+                    "bottom": {}
+                },
+                {
+                    "right": {}
+                },
+                {
+                    "top": {}
+                }
+            ],
+            "confidence": {
+                "medium": {}
+            },
+            "category": {
+                "window": {}
+            },
+            "transform": [
+                -0.98681504,
+                0,
+                -0.16185229,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0.16185227,
+                0,
+                -0.98681504,
+                0,
+                -1.6602967,
+                -0.09843638,
+                2.9864109,
+                1
+            ]
+        }
+    ],
+    "rooms": [
+        {
+            "story": 0,
+            "objects": [
+                {
+                    "parentIdentifier": null,
+                    "identifier": "D8EEB33C-361C-4682-8DC8-AF01AABC172F",
+                    "confidence": {
+                        "low": {}
+                    },
+                    "dimensions": [
+                        0.7921544,
+                        1.0943888,
+                        0.465565
+                    ],
+                    "attributes": {
+                        "StorageType": "cabinet"
+                    },
+                    "story": 0,
+                    "transform": [
+                        -0.98681504,
+                        0,
+                        -0.16185206,
+                        0,
+                        0,
+                        1.0000001,
+                        0,
+                        0,
+                        0.16185206,
+                        0,
+                        -0.98681515,
+                        0,
+                        2.4708498,
+                        -0.9653658,
+                        -0.020127058,
+                        1
+                    ],
+                    "category": {
+                        "storage": {}
+                    }
+                },
+                {
+                    "transform": [
+                        -0.16185232,
+                        0,
+                        0.986815,
+                        0,
+                        0,
+                        0.99999994,
+                        0,
+                        0,
+                        -0.9868149,
+                        0,
+                        -0.16185232,
+                        0,
+                        3.620188,
+                        -1.0085435,
+                        -2.5986247,
+                        1
+                    ],
+                    "confidence": {
+                        "high": {}
+                    },
+                    "parentIdentifier": null,
+                    "story": 0,
+                    "category": {
+                        "storage": {}
+                    },
+                    "identifier": "88D34D43-F731-482C-AAAB-39463A437E74",
+                    "dimensions": [
+                        0.82506317,
+                        1.0080333,
+                        0.4281692
+                    ],
+                    "attributes": {
+                        "StorageType": "shelf"
+                    }
+                },
+                {
+                    "category": {
+                        "storage": {}
+                    },
+                    "parentIdentifier": null,
+                    "transform": [
+                        0.98681504,
+                        0,
+                        0.16185229,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.16185227,
+                        0,
+                        0.98681504,
+                        0,
+                        0.7472765,
+                        -1.1699643,
+                        -4.8210163,
+                        1
+                    ],
+                    "story": 0,
+                    "identifier": "4BA507BE-D51B-420B-97FD-C88DFA5E616F",
+                    "attributes": {
+                        "StorageType": "shelf"
+                    },
+                    "confidence": {
+                        "high": {}
+                    },
+                    "dimensions": [
+                        0.69186616,
+                        0.68519187,
+                        0.38222814
+                    ]
+                },
+                {
+                    "category": {
+                        "bed": {}
+                    },
+                    "parentIdentifier": null,
+                    "identifier": "9C7B758C-F47A-4659-95E2-8CB04CEF224D",
+                    "confidence": {
+                        "medium": {}
+                    },
+                    "attributes": {},
+                    "story": 0,
+                    "dimensions": [
+                        1.0185547,
+                        0.65198874,
+                        2.0593407
+                    ],
+                    "transform": [
+                        0.98681504,
+                        0,
+                        0.16185223,
+                        0,
+                        0,
+                        0.9999999,
+                        0,
+                        0,
+                        -0.16185218,
+                        0,
+                        0.9868149,
+                        0,
+                        1.7592986,
+                        -1.1865659,
+                        -3.8052692,
+                        1
+                    ]
+                },
+                {
+                    "identifier": "2495EBB5-CCF1-49C4-B80D-A9D241524E6F",
+                    "transform": [
+                        0.9868151,
+                        0,
+                        0.16185227,
+                        0,
+                        0,
+                        0.99999994,
+                        0,
+                        0,
+                        -0.16185224,
+                        0,
+                        0.98681504,
+                        0,
+                        3.0846531,
+                        -1.1517682,
+                        -4.416833,
+                        1
+                    ],
+                    "attributes": {
+                        "StorageType": "shelf"
+                    },
+                    "category": {
+                        "storage": {}
+                    },
+                    "story": 0,
+                    "dimensions": [
+                        0.7230625,
+                        0.7215839,
+                        0.42331687
+                    ],
+                    "confidence": {
+                        "high": {}
+                    },
+                    "parentIdentifier": null
+                },
+                {
+                    "category": {
+                        "storage": {}
+                    },
+                    "parentIdentifier": null,
+                    "identifier": "E0DD731F-B024-40C0-9100-4C83D5D7BD5A",
+                    "confidence": {
+                        "low": {}
+                    },
+                    "dimensions": [
+                        0.6905754,
+                        0.66509193,
+                        0.6333009
+                    ],
+                    "attributes": {
+                        "StorageType": "cabinet"
+                    },
+                    "story": 0,
+                    "transform": [
+                        0.16185242,
+                        0,
+                        -0.986815,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.986815,
+                        0,
+                        0.16185243,
+                        0,
+                        0.7354739,
+                        -1.1800143,
+                        -2.5926857,
+                        1
+                    ]
+                }
+            ],
+            "floors": [
+                {
+                    "confidence": {
+                        "high": {}
+                    },
+                    "identifier": "D3454F59-E78F-42EF-A1EA-7D58063550CE",
+                    "dimensions": [
+                        3.8050926,
+                        4.91101,
+                        0
+                    ],
+                    "curve": null,
+                    "transform": [
+                        0.9865481,
+                        0,
+                        0.16347088,
+                        0,
+                        0.16347083,
+                        0,
+                        -0.98654807,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        1.8810467,
+                        -1.5335699,
+                        -2.350408,
+                        1
+                    ],
+                    "story": 0,
+                    "polygonCorners": [
+                        [
+                            1.8706671,
+                            -2.4297066,
+                            0
+                        ],
+                        [
+                            0.55828464,
+                            -2.4297068,
+                            0
+                        ],
+                        [
+                            0.5582849,
+                            -0.8934065,
+                            0
+                        ],
+                        [
+                            -1.9025464,
+                            -0.9066543,
+                            0
+                        ],
+                        [
+                            -1.9025462,
+                            2.4464235,
+                            0
+                        ],
+                        [
+                            1.8706676,
+                            2.4464235,
+                            0
+                        ],
+                        [
+                            1.8706671,
+                            -0.8934062,
+                            0
+                        ]
+                    ],
+                    "completedEdges": [
+                        {
+                            "right": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "left": {}
+                        }
+                    ],
+                    "category": {
+                        "floor": {}
+                    },
+                    "parentIdentifier": null
+                }
+            ],
+            "openings": [],
+            "doors": [
+                {
+                    "curve": null,
+                    "story": 0,
+                    "category": {
+                        "door": {
+                            "isOpen": false
+                        }
+                    },
+                    "confidence": {
+                        "high": {}
+                    },
+                    "identifier": "3D92D2D0-FE28-433E-9BF6-CE399B37244C",
+                    "completedEdges": [
+                        {
+                            "right": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "left": {}
+                        }
+                    ],
+                    "parentIdentifier": "FDBA9795-6EEE-4E0B-916C-3BE0ADB23AC0",
+                    "polygonCorners": [],
+                    "transform": [
+                        -0.16306268,
+                        0,
+                        0.98661584,
+                        0,
+                        0,
+                        0.99999994,
+                        0,
+                        0,
+                        -0.9866158,
+                        0,
+                        -0.16306268,
+                        0,
+                        0.10001704,
+                        -0.507971,
+                        -3.2528505,
+                        1
+                    ],
+                    "dimensions": [
+                        0.6572076,
+                        2.0091784,
+                        0.08200975
+                    ]
+                },
+                {
+                    "category": {
+                        "door": {
+                            "isOpen": true
+                        }
+                    },
+                    "parentIdentifier": "4D7A6C60-3D56-4D1A-949F-E4C041B44392",
+                    "identifier": "43A25862-F6A2-4D77-8469-2EB4D9B3DF38",
+                    "transform": [
+                        -0.990068,
+                        0,
+                        -0.14058863,
+                        0,
+                        0,
+                        0.99999994,
+                        0,
+                        0,
+                        0.14058863,
+                        0,
+                        -0.9900681,
+                        0,
+                        2.693254,
+                        -0.4940538,
+                        -1.3046671,
+                        1
+                    ],
+                    "curve": null,
+                    "story": 0,
+                    "polygonCorners": [],
+                    "confidence": {
+                        "medium": {}
+                    },
+                    "completedEdges": [
+                        {
+                            "top": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "right": {}
+                        }
+                    ],
+                    "dimensions": [
+                        0.5822302,
+                        2.0370128,
+                        0
+                    ]
+                },
+                {
+                    "parentIdentifier": "FDBA9795-6EEE-4E0B-916C-3BE0ADB23AC0",
+                    "confidence": {
+                        "high": {}
+                    },
+                    "transform": [
+                        -0.1630627,
+                        0,
+                        0.98661584,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.98661584,
+                        0,
+                        -0.16306272,
+                        0,
+                        -0.05621487,
+                        -0.46147254,
+                        -2.3075645,
+                        1
+                    ],
+                    "polygonCorners": [],
+                    "dimensions": [
+                        0.75818455,
+                        2.1021752,
+                        0.08200975
+                    ],
+                    "identifier": "383CDE34-E8CE-4F1F-84A8-D498CC5CCB0F",
+                    "category": {
+                        "door": {
+                            "isOpen": true
+                        }
+                    },
+                    "completedEdges": [
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "right": {}
+                        },
+                        {
+                            "left": {}
+                        }
+                    ],
+                    "story": 0,
+                    "curve": null
+                }
+            ],
+            "version": 2,
+            "windows": [
+                {
+                    "polygonCorners": [],
+                    "dimensions": [
+                        2.0277536,
+                        1.3215984,
+                        0
+                    ],
+                    "confidence": {
+                        "high": {}
+                    },
+                    "parentIdentifier": "114DECA6-8AB5-4E39-BA35-2335028F3AD0",
+                    "curve": null,
+                    "transform": [
+                        -0.16355419,
+                        0,
+                        0.98653436,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.98653436,
+                        0,
+                        -0.1635542,
+                        0,
+                        3.843732,
+                        0.056980945,
+                        -2.6082568,
+                        1
+                    ],
+                    "identifier": "87C07730-5BA8-44FE-B01A-9F29E4DD8CF3",
+                    "category": {
+                        "window": {}
+                    },
+                    "completedEdges": [
+                        {
+                            "top": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "right": {}
+                        },
+                        {
+                            "left": {}
+                        }
+                    ],
+                    "story": 0
+                }
+            ],
+            "coreModel": "atBGJtaohjrciC19jiCwvS2SlZXC4iMt9HVb7F04\/CZ7x7fKKrU6pwXBbT7aQyMx4dvx7jEmKJr4ucX7q+C54rmGF8lHwePKjOoAYMebUMwIb5Fv\/YEpkRGk0CeIU7sbJnMzPF745cJwDnemvm+OPQ+\/SNOViwFKGuqfCJPQcX3QN3AI=",
+            "walls": [
+                {
+                    "confidence": {
+                        "high": {}
+                    },
+                    "parentIdentifier": null,
+                    "identifier": "DBC7C197-22D3-45BA-B6DD-CD11FE35468F",
+                    "dimensions": [
+                        3.7996502,
+                        2.43812,
+                        0
+                    ],
+                    "category": {
+                        "wall": {}
+                    },
+                    "completedEdges": [
+                        {
+                            "right": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "top": {}
+                        }
+                    ],
+                    "transform": [
+                        0.9865482,
+                        0,
+                        0.16347073,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.16347072,
+                        0,
+                        0.9865482,
+                        0,
+                        2.2755065,
+                        -0.2935002,
+                        -4.7648273,
+                        1
+                    ],
+                    "polygonCorners": [],
+                    "story": 0,
+                    "curve": null
+                },
+                {
+                    "category": {
+                        "wall": {}
+                    },
+                    "transform": [
+                        -0.9865539,
+                        0,
+                        -0.16343658,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.16343656,
+                        0,
+                        -0.9865539,
+                        0,
+                        2.6695416,
+                        -0.2935002,
+                        0.2910254,
+                        1
+                    ],
+                    "curve": null,
+                    "dimensions": [
+                        1.3694645,
+                        2.43812,
+                        0.08200975
+                    ],
+                    "parentIdentifier": null,
+                    "confidence": {
+                        "high": {}
+                    },
+                    "identifier": "B56DA5A3-2C96-4751-91AE-CC65CEEF2E3D",
+                    "story": 0,
+                    "polygonCorners": [],
+                    "completedEdges": [
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "right": {}
+                        },
+                        {
+                            "left": {}
+                        }
+                    ]
+                },
+                {
+                    "curve": null,
+                    "transform": [
+                        0.16306269,
+                        0,
+                        -0.9866157,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.9866157,
+                        0,
+                        0.1630627,
+                        0,
+                        -0.1353364,
+                        -0.2935002,
+                        -1.828837,
+                        1
+                    ],
+                    "category": {
+                        "wall": {}
+                    },
+                    "identifier": "DE461B27-6B19-4A73-A417-A728C34159F4",
+                    "completedEdges": [
+                        {
+                            "top": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "right": {}
+                        }
+                    ],
+                    "dimensions": [
+                        0.18109685,
+                        2.43812,
+                        0.08200975
+                    ],
+                    "parentIdentifier": null,
+                    "polygonCorners": [],
+                    "story": 0,
+                    "confidence": {
+                        "high": {}
+                    }
+                },
+                {
+                    "dimensions": [
+                        1.5994251,
+                        2.43812,
+                        0
+                    ],
+                    "parentIdentifier": null,
+                    "identifier": "EC3C9268-343F-439E-8B4A-8312DA722974",
+                    "confidence": {
+                        "high": {}
+                    },
+                    "transform": [
+                        -0.16321948,
+                        0,
+                        0.9865898,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.9865898,
+                        0,
+                        -0.1632195,
+                        0,
+                        3.4755955,
+                        -0.2935002,
+                        -0.38605237,
+                        1
+                    ],
+                    "completedEdges": [
+                        {
+                            "top": {}
+                        },
+                        {
+                            "right": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "bottom": {}
+                        }
+                    ],
+                    "category": {
+                        "wall": {}
+                    },
+                    "polygonCorners": [],
+                    "story": 0,
+                    "curve": null
+                },
+                {
+                    "completedEdges": [
+                        {
+                            "left": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "right": {}
+                        }
+                    ],
+                    "dimensions": [
+                        3.3239806,
+                        2.43812,
+                        0
+                    ],
+                    "parentIdentifier": null,
+                    "curve": null,
+                    "polygonCorners": [],
+                    "identifier": "114DECA6-8AB5-4E39-BA35-2335028F3AD0",
+                    "category": {
+                        "wall": {}
+                    },
+                    "story": 0,
+                    "transform": [
+                        -0.16355428,
+                        0,
+                        0.98653436,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.98653436,
+                        0,
+                        -0.1635543,
+                        0,
+                        3.8779497,
+                        -0.2935002,
+                        -2.814651,
+                        1
+                    ],
+                    "confidence": {
+                        "high": {}
+                    }
+                },
+                {
+                    "dimensions": [
+                        1.5677698,
+                        2.43812,
+                        0.08200975
+                    ],
+                    "identifier": "24A1A5FF-30C8-4489-B76C-FFDA2EFAE43F",
+                    "story": 0,
+                    "transform": [
+                        0.1634456,
+                        0,
+                        -0.9865524,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.9865524,
+                        0,
+                        0.16344562,
+                        0,
+                        2.1221385,
+                        -0.2935002,
+                        -0.59422815,
+                        1
+                    ],
+                    "curve": null,
+                    "category": {
+                        "wall": {}
+                    },
+                    "confidence": {
+                        "high": {}
+                    },
+                    "completedEdges": [
+                        {
+                            "top": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "right": {}
+                        },
+                        {
+                            "bottom": {}
+                        }
+                    ],
+                    "polygonCorners": [],
+                    "parentIdentifier": null
+                },
+                {
+                    "parentIdentifier": null,
+                    "curve": null,
+                    "transform": [
+                        -0.98820764,
+                        0,
+                        -0.15311976,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.15311974,
+                        0,
+                        -0.98820764,
+                        0,
+                        1.0500798,
+                        -0.2935002,
+                        -1.553536,
+                        1
+                    ],
+                    "identifier": "6DEF3BA4-A1E0-4903-9E78-771764BF1AD1",
+                    "category": {
+                        "wall": {}
+                    },
+                    "completedEdges": [
+                        {
+                            "left": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "right": {}
+                        },
+                        {
+                            "bottom": {}
+                        }
+                    ],
+                    "dimensions": [
+                        2.4290063,
+                        2.43812,
+                        0.08200975
+                    ],
+                    "polygonCorners": [],
+                    "confidence": {
+                        "high": {}
+                    },
+                    "story": 0
+                },
+                {
+                    "curve": null,
+                    "category": {
+                        "wall": {}
+                    },
+                    "completedEdges": [
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "right": {}
+                        }
+                    ],
+                    "polygonCorners": [],
+                    "parentIdentifier": null,
+                    "story": 0,
+                    "identifier": "FDBA9795-6EEE-4E0B-916C-3BE0ADB23AC0",
+                    "transform": [
+                        0.16306268,
+                        0,
+                        -0.9866158,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.9866158,
+                        0,
+                        0.16306269,
+                        0,
+                        0.12556791,
+                        -0.2935002,
+                        -3.4074469,
+                        1
+                    ],
+                    "dimensions": [
+                        3.381147,
+                        2.43812,
+                        0.08200975
+                    ],
+                    "confidence": {
+                        "high": {}
+                    }
+                },
+                {
+                    "parentIdentifier": null,
+                    "polygonCorners": [],
+                    "completedEdges": [
+                        {
+                            "right": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "top": {}
+                        }
+                    ],
+                    "transform": [
+                        -0.99006814,
+                        0,
+                        -0.1405886,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.1405886,
+                        0,
+                        -0.99006814,
+                        0,
+                        2.9281929,
+                        -0.2935002,
+                        -1.2713062,
+                        1
+                    ],
+                    "category": {
+                        "wall": {}
+                    },
+                    "identifier": "4D7A6C60-3D56-4D1A-949F-E4C041B44392",
+                    "curve": null,
+                    "dimensions": [
+                        1.3694642,
+                        2.43812,
+                        0
+                    ],
+                    "story": 0,
+                    "confidence": {
+                        "high": {}
+                    }
+                }
+            ],
+            "sections": [
+                {
+                    "label": "bedroom",
+                    "center": [
+                        1.9813614,
+                        -0.062109552,
+                        -3.0864677
+                    ],
+                    "story": 0
+                }
+            ]
+        },
+        {
+            "floors": [
+                {
+                    "transform": [
+                        0.16276927,
+                        0,
+                        -0.9866641,
+                        0,
+                        -0.98666424,
+                        0,
+                        -0.16276918,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -2.1804533,
+                        -1.4896531,
+                        -1.3188777,
+                        1
+                    ],
+                    "parentIdentifier": null,
+                    "confidence": {
+                        "high": {}
+                    },
+                    "curve": null,
+                    "polygonCorners": [
+                        [
+                            -4.1784096,
+                            -1.9166565,
+                            0
+                        ],
+                        [
+                            -4.17841,
+                            1.9087095,
+                            0
+                        ],
+                        [
+                            1.7799206,
+                            1.90871,
+                            0
+                        ],
+                        [
+                            1.7799208,
+                            -1.9166555,
+                            0
+                        ]
+                    ],
+                    "category": {
+                        "floor": {}
+                    },
+                    "dimensions": [
+                        8.35682,
+                        3.8404613,
+                        0
+                    ],
+                    "story": 0,
+                    "identifier": "A953D3F1-262D-4CA2-95A7-1A14C0E18CCB",
+                    "completedEdges": [
+                        {
+                            "right": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "bottom": {}
+                        }
+                    ]
+                }
+            ],
+            "story": 0,
+            "sections": [
+                {
+                    "label": "bedroom",
+                    "center": [
+                        -2.3817024,
+                        -0.062109552,
+                        -0.116567135
+                    ],
+                    "story": 0
+                }
+            ],
+            "doors": [
+                {
+                    "category": {
+                        "door": {
+                            "isOpen": false
+                        }
+                    },
+                    "parentIdentifier": "2B1F9643-23DE-4C2B-8AFB-C8755B1204E9",
+                    "completedEdges": [
+                        {
+                            "top": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "right": {}
+                        }
+                    ],
+                    "confidence": {
+                        "medium": {}
+                    },
+                    "identifier": "53DD4619-27F6-4643-902C-49CD9730A31F",
+                    "story": 0,
+                    "transform": [
+                        -0.16306269,
+                        0,
+                        0.9866157,
+                        0,
+                        0,
+                        0.99999994,
+                        0,
+                        0,
+                        -0.9866158,
+                        0,
+                        -0.1630627,
+                        0,
+                        -0.21905428,
+                        -0.4586664,
+                        -1.3222997,
+                        1
+                    ],
+                    "dimensions": [
+                        0.6440924,
+                        2.1077876,
+                        0.08200975
+                    ],
+                    "curve": null,
+                    "polygonCorners": []
+                },
+                {
+                    "polygonCorners": [],
+                    "category": {
+                        "door": {
+                            "isOpen": false
+                        }
+                    },
+                    "parentIdentifier": "96CBE49A-EC56-4274-9B58-F5DD87C89EA8",
+                    "transform": [
+                        0.16276954,
+                        0,
+                        -0.9866642,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.9866642,
+                        0,
+                        0.16276956,
+                        0,
+                        -4.1214232,
+                        -0.40883306,
+                        -1.2797105,
+                        1
+                    ],
+                    "confidence": {
+                        "medium": {}
+                    },
+                    "curve": null,
+                    "story": 0,
+                    "dimensions": [
+                        0.96690905,
+                        2.2074542,
+                        0
+                    ],
+                    "completedEdges": [
+                        {
+                            "top": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "right": {}
+                        }
+                    ],
+                    "identifier": "65024CDC-8046-4101-9378-C5FEF0F93737"
+                },
+                {
+                    "confidence": {
+                        "high": {}
+                    },
+                    "transform": [
+                        0.9866643,
+                        0,
+                        0.16276911,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.1627691,
+                        0,
+                        0.9866643,
+                        0,
+                        -2.161414,
+                        -0.45040688,
+                        -3.1197147,
+                        1
+                    ],
+                    "story": 0,
+                    "completedEdges": [
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "right": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "left": {}
+                        }
+                    ],
+                    "curve": null,
+                    "parentIdentifier": "A574AC66-B644-47C2-B262-E610652032DC",
+                    "polygonCorners": [],
+                    "category": {
+                        "door": {
+                            "isOpen": false
+                        }
+                    },
+                    "dimensions": [
+                        0.64507633,
+                        2.1243067,
+                        0
+                    ],
+                    "identifier": "542989BE-832E-4F45-82C7-74DB30C113C7"
+                },
+                {
+                    "category": {
+                        "door": {
+                            "isOpen": true
+                        }
+                    },
+                    "completedEdges": [
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "right": {}
+                        }
+                    ],
+                    "dimensions": [
+                        0.7252812,
+                        2.0460048,
+                        0.08200975
+                    ],
+                    "confidence": {
+                        "high": {}
+                    },
+                    "parentIdentifier": "2B1F9643-23DE-4C2B-8AFB-C8755B1204E9",
+                    "polygonCorners": [],
+                    "curve": null,
+                    "story": 0,
+                    "identifier": "4B39A7E6-32ED-4DC4-955E-6ED3BAEB54E6",
+                    "transform": [
+                        -0.16306274,
+                        0,
+                        0.98661566,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.9866158,
+                        0,
+                        -0.16306277,
+                        0,
+                        -0.3691696,
+                        -0.48955783,
+                        -0.4140222,
+                        1
+                    ]
+                },
+                {
+                    "polygonCorners": [],
+                    "dimensions": [
+                        0.7794069,
+                        2.1021752,
+                        0.08200975
+                    ],
+                    "transform": [
+                        -0.16306269,
+                        0,
+                        0.9866158,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.9866158,
+                        0,
+                        -0.1630627,
+                        0,
+                        -0.062000275,
+                        -0.46147254,
+                        -2.27256,
+                        1
+                    ],
+                    "parentIdentifier": "2B1F9643-23DE-4C2B-8AFB-C8755B1204E9",
+                    "completedEdges": [
+                        {
+                            "right": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "left": {}
+                        }
+                    ],
+                    "curve": null,
+                    "story": 0,
+                    "category": {
+                        "door": {
+                            "isOpen": true
+                        }
+                    },
+                    "identifier": "1D0F175F-1A11-4806-BBBD-565FE63C7378",
+                    "confidence": {
+                        "medium": {}
+                    }
+                },
+                {
+                    "category": {
+                        "door": {
+                            "isOpen": true
+                        }
+                    },
+                    "story": 0,
+                    "confidence": {
+                        "medium": {}
+                    },
+                    "parentIdentifier": "96CBE49A-EC56-4274-9B58-F5DD87C89EA8",
+                    "completedEdges": [
+                        {
+                            "right": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "top": {}
+                        }
+                    ],
+                    "curve": null,
+                    "dimensions": [
+                        0.82749164,
+                        2.1727536,
+                        0
+                    ],
+                    "polygonCorners": [],
+                    "identifier": "6E6A9C20-E723-4B36-8AA5-B97DED7B391B",
+                    "transform": [
+                        0.16276896,
+                        0,
+                        -0.98666424,
+                        0,
+                        0,
+                        0.99999994,
+                        0,
+                        0,
+                        0.9866642,
+                        0,
+                        0.16276896,
+                        0,
+                        -3.9379067,
+                        -0.42618343,
+                        -2.392137,
+                        1
+                    ]
+                }
+            ],
+            "objects": [
+                {
+                    "category": {
+                        "sofa": {}
+                    },
+                    "confidence": {
+                        "low": {}
+                    },
+                    "parentIdentifier": null,
+                    "dimensions": [
+                        1.1913813,
+                        0.858734,
+                        1.0628451
+                    ],
+                    "transform": [
+                        -0.16185254,
+                        0,
+                        0.986815,
+                        0,
+                        0,
+                        0.99999994,
+                        0,
+                        0,
+                        -0.9868149,
+                        0,
+                        -0.16185254,
+                        0,
+                        -1.4130844,
+                        -1.0831933,
+                        2.4233077,
+                        1
+                    ],
+                    "identifier": "2025D078-7251-49F5-B50B-9A26AB6907EF",
+                    "story": 0,
+                    "attributes": {
+                        "SofaType": "singleSeat"
+                    }
+                },
+                {
+                    "category": {
+                        "chair": {}
+                    },
+                    "dimensions": [
+                        0.60182655,
+                        1.1250329,
+                        0.6758013
+                    ],
+                    "transform": [
+                        -0.937263,
+                        0,
+                        0.34862316,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.3486232,
+                        0,
+                        -0.937263,
+                        0,
+                        -3.1959898,
+                        -0.9500436,
+                        1.7225988,
+                        1
+                    ],
+                    "confidence": {
+                        "low": {}
+                    },
+                    "story": 0,
+                    "identifier": "9A6DE607-8E5E-485E-ADA1-09F578039350",
+                    "attributes": {
+                        "ChairType": "swivel",
+                        "ChairArmType": "existing",
+                        "ChairBackType": "existing",
+                        "ChairLegType": "star"
+                    },
+                    "parentIdentifier": null
+                },
+                {
+                    "parentIdentifier": null,
+                    "category": {
+                        "chair": {}
+                    },
+                    "attributes": {
+                        "ChairBackType": "existing",
+                        "ChairArmType": "missing",
+                        "ChairType": "swivel",
+                        "ChairLegType": "star"
+                    },
+                    "confidence": {
+                        "low": {}
+                    },
+                    "transform": [
+                        0.9856803,
+                        0,
+                        -0.16862538,
+                        0,
+                        0,
+                        0.99999994,
+                        0,
+                        0,
+                        0.16862538,
+                        0,
+                        0.9856802,
+                        0,
+                        -2.1578372,
+                        -1.0378373,
+                        -2.6168883,
+                        1
+                    ],
+                    "dimensions": [
+                        0.74367213,
+                        0.9494461,
+                        0.7495314
+                    ],
+                    "identifier": "D084821C-92D4-458E-8FB1-EB2502A5396E",
+                    "story": 0
+                },
+                {
+                    "parentIdentifier": null,
+                    "confidence": {
+                        "low": {}
+                    },
+                    "transform": [
+                        0.16185197,
+                        0,
+                        -0.98681504,
+                        0,
+                        0,
+                        0.99999994,
+                        0,
+                        0,
+                        0.986815,
+                        0,
+                        0.16185197,
+                        0,
+                        -4.205935,
+                        -0.8792767,
+                        0.24349666,
+                        1
+                    ],
+                    "attributes": {
+                        "StorageType": "shelf"
+                    },
+                    "category": {
+                        "storage": {}
+                    },
+                    "dimensions": [
+                        0.7798048,
+                        1.2665671,
+                        0.31978148
+                    ],
+                    "story": 0,
+                    "identifier": "7EF9E47A-3242-419C-9629-DE2B07BF20AC"
+                },
+                {
+                    "confidence": {
+                        "low": {}
+                    },
+                    "dimensions": [
+                        1.0263873,
+                        0.9514457,
+                        0.41151878
+                    ],
+                    "category": {
+                        "storage": {}
+                    },
+                    "parentIdentifier": null,
+                    "identifier": "865D5D2F-2EDB-4773-AB18-01A708DA8D7E",
+                    "attributes": {
+                        "StorageType": "shelf"
+                    },
+                    "transform": [
+                        0.16185234,
+                        0,
+                        -0.9868149,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.9868149,
+                        0,
+                        0.16185237,
+                        0,
+                        -3.9310656,
+                        -1.0368373,
+                        -0.74070823,
+                        1
+                    ],
+                    "story": 0
+                },
+                {
+                    "transform": [
+                        -0.16185242,
+                        0,
+                        0.9868149,
+                        0,
+                        0,
+                        0.99999994,
+                        0,
+                        0,
+                        -0.98681486,
+                        0,
+                        -0.16185243,
+                        0,
+                        -1.7766771,
+                        -1.1512218,
+                        0.7478783,
+                        1
+                    ],
+                    "dimensions": [
+                        1.7021677,
+                        0.7226771,
+                        2.1382027
+                    ],
+                    "category": {
+                        "bed": {}
+                    },
+                    "identifier": "1C96735A-CED6-4F5D-80E1-4CB9B2E826D8",
+                    "parentIdentifier": null,
+                    "attributes": {},
+                    "story": 0,
+                    "confidence": {
+                        "medium": {}
+                    }
+                },
+                {
+                    "category": {
+                        "table": {}
+                    },
+                    "identifier": "BDF68204-197D-476D-8C78-F391D0077208",
+                    "attributes": {
+                        "TableShapeType": "rectangular",
+                        "TableType": "coffee"
+                    },
+                    "confidence": {
+                        "high": {}
+                    },
+                    "dimensions": [
+                        1.1158477,
+                        0.49951327,
+                        0.6461966
+                    ],
+                    "story": 0,
+                    "transform": [
+                        -0.16185229,
+                        0,
+                        0.986815,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.986815,
+                        0,
+                        -0.1618523,
+                        0,
+                        -2.4582832,
+                        -1.2628036,
+                        2.1590817,
+                        1
+                    ],
+                    "parentIdentifier": null
+                }
+            ],
+            "windows": [
+                {
+                    "confidence": {
+                        "high": {}
+                    },
+                    "identifier": "8F4C6A2B-9BB2-479C-A827-E7D7D71CB34C",
+                    "category": {
+                        "window": {}
+                    },
+                    "transform": [
+                        -0.9866642,
+                        0,
+                        -0.1627692,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.16276918,
+                        0,
+                        -0.9866642,
+                        0,
+                        -2.719526,
+                        -0.11962243,
+                        2.8126013,
+                        1
+                    ],
+                    "completedEdges": [
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "right": {}
+                        },
+                        {
+                            "left": {}
+                        }
+                    ],
+                    "curve": null,
+                    "parentIdentifier": "B202FE90-A88D-4474-879B-1002DC5D20CF",
+                    "story": 0,
+                    "dimensions": [
+                        0.8880314,
+                        1.4321766,
+                        0
+                    ],
+                    "polygonCorners": []
+                },
+                {
+                    "dimensions": [
+                        0.8538759,
+                        1.3728558,
+                        0
+                    ],
+                    "curve": null,
+                    "completedEdges": [
+                        {
+                            "right": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "left": {}
+                        }
+                    ],
+                    "parentIdentifier": "B202FE90-A88D-4474-879B-1002DC5D20CF",
+                    "category": {
+                        "window": {}
+                    },
+                    "transform": [
+                        -0.9866643,
+                        0,
+                        -0.1627685,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.16276848,
+                        0,
+                        -0.9866643,
+                        0,
+                        -1.666415,
+                        -0.09843638,
+                        2.9863317,
+                        1
+                    ],
+                    "story": 0,
+                    "polygonCorners": [],
+                    "confidence": {
+                        "medium": {}
+                    },
+                    "identifier": "BB0DD8FF-D74C-4D76-84DC-AD875067C521"
+                }
+            ],
+            "openings": [
+                {
+                    "completedEdges": [
+                        {
+                            "top": {}
+                        },
+                        {
+                            "right": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "left": {}
+                        }
+                    ],
+                    "identifier": "986CB5E6-0D70-4578-B38A-4B160C3BF5E8",
+                    "transform": [
+                        0.98666424,
+                        0,
+                        0.16276917,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.16276915,
+                        0,
+                        0.98666424,
+                        0,
+                        -1.0929885,
+                        -0.48110667,
+                        -2.9434576,
+                        1
+                    ],
+                    "category": {
+                        "opening": {}
+                    },
+                    "polygonCorners": [],
+                    "dimensions": [
+                        0.57743675,
+                        2.0629072,
+                        0
+                    ],
+                    "confidence": {
+                        "high": {}
+                    },
+                    "curve": null,
+                    "story": 0,
+                    "parentIdentifier": "A574AC66-B644-47C2-B262-E610652032DC"
+                }
+            ],
+            "version": 2,
+            "coreModel": "jXnZYkjZvjo9vyZxGEDRKAuYsGyB44bLLJehAMfWdMgytfI\/uAEzwa\/TtN29w+I7ot2RwRkwiIduhqFow84etO31lFI2Q2vRxIbGhJsOZzufdaqjAs2TsEI3+IPw3ft8056CaMlEUo9NT57rZLDT2ak0gDZ90xwKAyfIeYHiowdUzWoAi\/oUZIx3aCrAsyUMr4MDq8nIgkTvbHA+5SuAMRCe+tMgEqs0z4WUuwtVHxEBCL\/HsfPecu875sYQdIp\/roiHRzsiem7nZO9H6fzShr\/4g8ilZoAJDGImJa4Cn6ZD\/AZvqoh\/JCpYsPrBYZlxkqJs8mjjW5SvFL2D1tGg4\/Uf2dxCNkBZLhHwsSevUuNPQSGBx0x",
+            "walls": [
+                {
+                    "confidence": {
+                        "high": {}
+                    },
+                    "transform": [
+                        -0.9866642,
+                        0,
+                        -0.162769,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.16276899,
+                        0,
+                        -0.9866642,
+                        0,
+                        -2.8460886,
+                        -0.2935002,
+                        2.791722,
+                        1
+                    ],
+                    "category": {
+                        "wall": {}
+                    },
+                    "polygonCorners": [],
+                    "dimensions": [
+                        3.8420603,
+                        2.43812,
+                        0
+                    ],
+                    "completedEdges": [
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "right": {}
+                        }
+                    ],
+                    "curve": null,
+                    "parentIdentifier": null,
+                    "story": 0,
+                    "identifier": "B202FE90-A88D-4474-879B-1002DC5D20CF"
+                },
+                {
+                    "confidence": {
+                        "high": {}
+                    },
+                    "transform": [
+                        0.9866641,
+                        0,
+                        0.16276911,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.16276911,
+                        0,
+                        0.98666424,
+                        0,
+                        -1.8777089,
+                        -0.2935002,
+                        -3.0729122,
+                        1
+                    ],
+                    "curve": null,
+                    "parentIdentifier": null,
+                    "dimensions": [
+                        3.8438287,
+                        2.43812,
+                        0
+                    ],
+                    "identifier": "A574AC66-B644-47C2-B262-E610652032DC",
+                    "completedEdges": [
+                        {
+                            "left": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "right": {}
+                        }
+                    ],
+                    "category": {
+                        "wall": {}
+                    },
+                    "story": 0,
+                    "polygonCorners": []
+                },
+                {
+                    "identifier": "96CBE49A-EC56-4274-9B58-F5DD87C89EA8",
+                    "dimensions": [
+                        5.944047,
+                        2.43812,
+                        0
+                    ],
+                    "transform": [
+                        0.16276912,
+                        0,
+                        -0.9866642,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.9866642,
+                        0,
+                        0.16276914,
+                        0,
+                        -4.2577467,
+                        -0.2935002,
+                        -0.4533515,
+                        1
+                    ],
+                    "confidence": {
+                        "high": {}
+                    },
+                    "parentIdentifier": null,
+                    "completedEdges": [
+                        {
+                            "right": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "bottom": {}
+                        }
+                    ],
+                    "story": 0,
+                    "curve": null,
+                    "polygonCorners": [],
+                    "category": {
+                        "wall": {}
+                    }
+                },
+                {
+                    "confidence": {
+                        "high": {}
+                    },
+                    "story": 0,
+                    "dimensions": [
+                        5.944047,
+                        2.43812,
+                        0.08200975
+                    ],
+                    "completedEdges": [
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "right": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "top": {}
+                        }
+                    ],
+                    "category": {
+                        "wall": {}
+                    },
+                    "transform": [
+                        -0.16306269,
+                        0,
+                        0.9866157,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.9866157,
+                        0,
+                        -0.1630627,
+                        0,
+                        -0.46605092,
+                        -0.2935002,
+                        0.1721611,
+                        1
+                    ],
+                    "identifier": "2B1F9643-23DE-4C2B-8AFB-C8755B1204E9",
+                    "curve": null,
+                    "parentIdentifier": null,
+                    "polygonCorners": []
+                }
+            ]
+        },
+        {
+            "sections": [
+                {
+                    "center": [
+                        1.1277125,
+                        -0.062109552,
+                        1.6495774
+                    ],
+                    "label": "bedroom",
+                    "story": 0
+                }
+            ],
+            "walls": [
+                {
+                    "confidence": {
+                        "high": {}
+                    },
+                    "transform": [
+                        -0.9865572,
+                        0,
+                        -0.16341658,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.16341656,
+                        0,
+                        -0.9865572,
+                        0,
+                        0.9220222,
+                        -0.2935002,
+                        3.4146054,
+                        1
+                    ],
+                    "category": {
+                        "wall": {}
+                    },
+                    "curve": null,
+                    "story": 0,
+                    "polygonCorners": [],
+                    "parentIdentifier": null,
+                    "dimensions": [
+                        3.7964332,
+                        2.43812,
+                        0
+                    ],
+                    "identifier": "A826A64D-0727-42CD-86CB-3883E5E908F8",
+                    "completedEdges": [
+                        {
+                            "right": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "top": {}
+                        }
+                    ]
+                },
+                {
+                    "completedEdges": [
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "right": {}
+                        }
+                    ],
+                    "transform": [
+                        -0.16344543,
+                        0,
+                        0.98655236,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.98655236,
+                        0,
+                        -0.16344544,
+                        0,
+                        3.069894,
+                        -0.2935002,
+                        2.0638711,
+                        1
+                    ],
+                    "category": {
+                        "wall": {}
+                    },
+                    "curve": null,
+                    "dimensions": [
+                        3.3671503,
+                        2.43812,
+                        0
+                    ],
+                    "identifier": "48B4F9DE-4639-4351-8493-4AC7F0DFD014",
+                    "parentIdentifier": null,
+                    "story": 0,
+                    "confidence": {
+                        "high": {}
+                    },
+                    "polygonCorners": []
+                },
+                {
+                    "parentIdentifier": null,
+                    "completedEdges": [
+                        {
+                            "left": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "right": {}
+                        },
+                        {
+                            "top": {}
+                        }
+                    ],
+                    "identifier": "6C424542-028A-4DF2-9976-76C7BBD98CB0",
+                    "polygonCorners": [],
+                    "confidence": {
+                        "high": {}
+                    },
+                    "curve": null,
+                    "transform": [
+                        0.98718727,
+                        0,
+                        0.15956588,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.15956587,
+                        0,
+                        0.98718727,
+                        0,
+                        1.7900801,
+                        -0.2935002,
+                        -1.4419539,
+                        1
+                    ],
+                    "dimensions": [
+                        0.9323079,
+                        2.43812,
+                        0.08200975
+                    ],
+                    "story": 0,
+                    "category": {
+                        "wall": {}
+                    }
+                },
+                {
+                    "category": {
+                        "wall": {}
+                    },
+                    "identifier": "64FEEB22-D76F-471A-93E6-71336CD7143A",
+                    "polygonCorners": [],
+                    "curve": null,
+                    "dimensions": [
+                        0.44931775,
+                        2.43812,
+                        0
+                    ],
+                    "completedEdges": [
+                        {
+                            "top": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "right": {}
+                        }
+                    ],
+                    "transform": [
+                        0.98655653,
+                        0,
+                        0.16342036,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.16342035,
+                        0,
+                        0.98655653,
+                        0,
+                        1.0329077,
+                        -0.2935002,
+                        -1.097775,
+                        1
+                    ],
+                    "parentIdentifier": null,
+                    "confidence": {
+                        "high": {}
+                    },
+                    "story": 0
+                },
+                {
+                    "completedEdges": [
+                        {
+                            "right": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "bottom": {}
+                        }
+                    ],
+                    "parentIdentifier": null,
+                    "dimensions": [
+                        0.46146873,
+                        2.43812,
+                        0
+                    ],
+                    "category": {
+                        "wall": {}
+                    },
+                    "story": 0,
+                    "identifier": "B2F3CA33-BEE5-40BC-AAEF-C6BA72982C31",
+                    "curve": null,
+                    "polygonCorners": [],
+                    "transform": [
+                        0.16328809,
+                        0,
+                        -0.98657846,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.98657846,
+                        0,
+                        0.1632881,
+                        0,
+                        1.2922227,
+                        -0.2935002,
+                        -1.2886987,
+                        1
+                    ],
+                    "confidence": {
+                        "high": {}
+                    }
+                },
+                {
+                    "curve": null,
+                    "category": {
+                        "wall": {}
+                    },
+                    "parentIdentifier": null,
+                    "dimensions": [
+                        0.18205659,
+                        2.43812,
+                        0.08200975
+                    ],
+                    "transform": [
+                        0.16306275,
+                        0,
+                        -0.9866158,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.9866158,
+                        0,
+                        0.16306277,
+                        0,
+                        -0.29824102,
+                        -0.2935002,
+                        -0.8431783,
+                        1
+                    ],
+                    "confidence": {
+                        "high": {}
+                    },
+                    "identifier": "8E6E0868-0164-4006-95B5-9064C44D92D6",
+                    "story": 0,
+                    "polygonCorners": [],
+                    "completedEdges": [
+                        {
+                            "left": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "right": {}
+                        },
+                        {
+                            "top": {}
+                        }
+                    ]
+                },
+                {
+                    "confidence": {
+                        "high": {}
+                    },
+                    "parentIdentifier": null,
+                    "story": 0,
+                    "completedEdges": [
+                        {
+                            "left": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "right": {}
+                        }
+                    ],
+                    "transform": [
+                        -0.16344525,
+                        0,
+                        0.9865525,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.9865525,
+                        0,
+                        -0.16344526,
+                        0,
+                        2.1201286,
+                        -0.2935002,
+                        -0.58209264,
+                        1
+                    ],
+                    "identifier": "4F06711A-B7F1-48A7-8CD0-60D94AE237F8",
+                    "category": {
+                        "wall": {}
+                    },
+                    "dimensions": [
+                        1.5923716,
+                        2.43812,
+                        0.08200975
+                    ],
+                    "curve": null,
+                    "polygonCorners": []
+                },
+                {
+                    "curve": null,
+                    "dimensions": [
+                        0.12861806,
+                        2.4253845,
+                        0
+                    ],
+                    "transform": [
+                        0.98655665,
+                        0,
+                        0.16341965,
+                        0,
+                        0,
+                        0.99999994,
+                        0,
+                        0,
+                        -0.16341962,
+                        0,
+                        0.9865566,
+                        0,
+                        1.9265513,
+                        -0.28330815,
+                        0.19287705,
+                        1
+                    ],
+                    "identifier": "6934F068-9D0C-4725-81B8-74D5C7DF190E",
+                    "confidence": {
+                        "high": {}
+                    },
+                    "parentIdentifier": null,
+                    "story": 0,
+                    "polygonCorners": [],
+                    "category": {
+                        "wall": {}
+                    },
+                    "completedEdges": [
+                        {
+                            "top": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "right": {}
+                        },
+                        {
+                            "bottom": {}
+                        }
+                    ]
+                },
+                {
+                    "parentIdentifier": null,
+                    "category": {
+                        "wall": {}
+                    },
+                    "completedEdges": [
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "right": {}
+                        },
+                        {
+                            "left": {}
+                        }
+                    ],
+                    "confidence": {
+                        "high": {}
+                    },
+                    "identifier": "53884231-202B-4B15-939E-8BB8EA6AB1BD",
+                    "dimensions": [
+                        1.0470963,
+                        2.43812,
+                        0
+                    ],
+                    "transform": [
+                        0.98843926,
+                        0,
+                        0.15161718,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.15161717,
+                        0,
+                        0.98843926,
+                        0,
+                        0.23409787,
+                        -0.2935002,
+                        -0.8536092,
+                        1
+                    ],
+                    "curve": null,
+                    "story": 0,
+                    "polygonCorners": []
+                },
+                {
+                    "identifier": "BD40DD98-75BB-4273-B53A-C251C16FCD81",
+                    "confidence": {
+                        "high": {}
+                    },
+                    "transform": [
+                        0.16342022,
+                        0,
+                        -0.9865565,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.9865566,
+                        0,
+                        0.16342025,
+                        0,
+                        0.7814312,
+                        -0.2935002,
+                        -0.95435965,
+                        1
+                    ],
+                    "completedEdges": [
+                        {
+                            "left": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "right": {}
+                        },
+                        {
+                            "bottom": {}
+                        }
+                    ],
+                    "category": {
+                        "wall": {}
+                    },
+                    "parentIdentifier": null,
+                    "story": 0,
+                    "curve": null,
+                    "dimensions": [
+                        0.36516747,
+                        2.43812,
+                        0
+                    ],
+                    "polygonCorners": []
+                },
+                {
+                    "story": 0,
+                    "polygonCorners": [],
+                    "curve": null,
+                    "transform": [
+                        0.16341956,
+                        0,
+                        -0.98655677,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.98655665,
+                        0,
+                        0.16341956,
+                        0,
+                        0.6913348,
+                        -0.2935002,
+                        -0.41045237,
+                        1
+                    ],
+                    "category": {
+                        "wall": {}
+                    },
+                    "identifier": "A9A49B34-BF52-4799-A8DC-634A324296A0",
+                    "parentIdentifier": null,
+                    "completedEdges": [
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "right": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "left": {}
+                        }
+                    ],
+                    "dimensions": [
+                        0.73747015,
+                        2.43812,
+                        0
+                    ],
+                    "confidence": {
+                        "high": {}
+                    }
+                },
+                {
+                    "identifier": "A7931C18-05EC-4ED3-8753-B7266AA25AA1",
+                    "story": 0,
+                    "dimensions": [
+                        4.0921645,
+                        2.43812,
+                        0.08200975
+                    ],
+                    "polygonCorners": [],
+                    "category": {
+                        "wall": {}
+                    },
+                    "transform": [
+                        0.16306269,
+                        0,
+                        -0.98661566,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.9866158,
+                        0,
+                        0.16306272,
+                        0,
+                        -0.6170373,
+                        -0.2935002,
+                        1.0857091,
+                        1
+                    ],
+                    "curve": null,
+                    "parentIdentifier": null,
+                    "completedEdges": [
+                        {
+                            "right": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "bottom": {}
+                        }
+                    ],
+                    "confidence": {
+                        "high": {}
+                    }
+                },
+                {
+                    "category": {
+                        "wall": {}
+                    },
+                    "identifier": "0F7807C4-A86B-4824-912A-F8809155D3E1",
+                    "parentIdentifier": null,
+                    "completedEdges": [
+                        {
+                            "left": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "right": {}
+                        }
+                    ],
+                    "polygonCorners": [],
+                    "curve": null,
+                    "story": 0,
+                    "dimensions": [
+                        2.7509804,
+                        2.43812,
+                        0.08200975
+                    ],
+                    "transform": [
+                        0.98655397,
+                        0,
+                        0.16343634,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.16343632,
+                        0,
+                        0.98655397,
+                        0,
+                        1.9880716,
+                        -0.2935002,
+                        0.17813087,
+                        1
+                    ],
+                    "confidence": {
+                        "high": {}
+                    }
+                }
+            ],
+            "coreModel": "Uy+j5nV8iFC0xGeZOBw2Tpo2jK8OGyfQuxqz9B7egR+4zQuOjkL9lYkWjpmoyMtIPyvkTQtsrd+OvMI6QVASeKMiaV5+J9n1vKqGiQ6PjHmpeqIrS9IwWOol0SXe3pA3mhu6Q9L8S3jYpk9AN7WV0K\/2Xx5dmkd5LWpQCd5lT+zh8sdifq3C2YPrkEL8vtD2VvczOttETQPFQYpbQxGSnwb3FQIBhv8xW8fmJGmhGUeGN4KKvWkl\/5UYAIHIhRr45mgkY0+RMZVsi58Wzm2GQPqEPEyOIbRIkD0ayhIasvZmqzVZtCQ36AUX02s26SbefHoOBFSpYjsoBev+AYVCHTTtVbGDgL9D5FRTfYdVkL5DplWjK9N7mOoae7g++1Vw5FF+gYJ4v1+UUCYUiAcPgMDYGWVRRCfuSJpWMlKJEQ9EiTcuG8p\/xYP6ZgLFTw4VWZa0O85JLAPU0Bl5a1t9LJS7svunQ+WlIbKmTed\/7xjvOLS0Z0YyfRtunSii90ssYBp17093v4b+D3w1y4Zgxu4q0LfHVGTgl5aECVZPyFixn2ApykDaSJK4MWSIDnPNk6EXyXJHOywx46X8=",
+            "version": 2,
+            "openings": [],
+            "story": 0,
+            "doors": [
+                {
+                    "completedEdges": [
+                        {
+                            "left": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "right": {}
+                        },
+                        {
+                            "top": {}
+                        }
+                    ],
+                    "dimensions": [
+                        0.5686259,
+                        2.054024,
+                        0.08200975
+                    ],
+                    "transform": [
+                        0.986554,
+                        0,
+                        0.16343606,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.16343604,
+                        0,
+                        0.986554,
+                        0,
+                        1.6083925,
+                        -0.48554823,
+                        0.115231514,
+                        1
+                    ],
+                    "curve": null,
+                    "polygonCorners": [],
+                    "category": {
+                        "door": {
+                            "isOpen": true
+                        }
+                    },
+                    "story": 0,
+                    "identifier": "6B2B546F-8574-439B-A931-08A80D461510",
+                    "confidence": {
+                        "medium": {}
+                    },
+                    "parentIdentifier": "0F7807C4-A86B-4824-912A-F8809155D3E1"
+                },
+                {
+                    "category": {
+                        "door": {
+                            "isOpen": true
+                        }
+                    },
+                    "story": 0,
+                    "polygonCorners": [],
+                    "identifier": "5C65A0E7-E86D-484F-AAC9-06097B166D40",
+                    "transform": [
+                        -0.16306266,
+                        0,
+                        0.9866158,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.9866158,
+                        0,
+                        -0.16306268,
+                        0,
+                        -0.3775857,
+                        -0.48955783,
+                        -0.36310077,
+                        1
+                    ],
+                    "completedEdges": [
+                        {
+                            "left": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "right": {}
+                        },
+                        {
+                            "bottom": {}
+                        }
+                    ],
+                    "dimensions": [
+                        0.76093954,
+                        2.0460048,
+                        0.08200975
+                    ],
+                    "confidence": {
+                        "high": {}
+                    },
+                    "curve": null,
+                    "parentIdentifier": "A7931C18-05EC-4ED3-8753-B7266AA25AA1"
+                }
+            ],
+            "objects": [
+                {
+                    "identifier": "AFDCD3E1-9036-4E1E-B7C2-822F8ED473A7",
+                    "attributes": {
+                        "TableType": "unidentified",
+                        "TableShapeType": "rectangular"
+                    },
+                    "dimensions": [
+                        1.0196995,
+                        0.7987821,
+                        0.61123294
+                    ],
+                    "category": {
+                        "table": {}
+                    },
+                    "transform": [
+                        -0.16185224,
+                        0,
+                        0.98681504,
+                        0,
+                        0,
+                        0.99999994,
+                        0,
+                        0,
+                        -0.986815,
+                        0,
+                        -0.16185224,
+                        0,
+                        2.7342076,
+                        -1.1131692,
+                        2.2376788,
+                        1
+                    ],
+                    "confidence": {
+                        "high": {}
+                    },
+                    "parentIdentifier": null,
+                    "story": 0
+                },
+                {
+                    "confidence": {
+                        "high": {}
+                    },
+                    "category": {
+                        "storage": {}
+                    },
+                    "parentIdentifier": null,
+                    "attributes": {
+                        "StorageType": "shelf"
+                    },
+                    "dimensions": [
+                        1.2955762,
+                        0.68965125,
+                        0.36678597
+                    ],
+                    "story": 0,
+                    "transform": [
+                        0.98681504,
+                        0,
+                        0.16185258,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.16185257,
+                        0,
+                        0.98681504,
+                        0,
+                        2.6696293,
+                        -1.1677346,
+                        0.5173187,
+                        1
+                    ],
+                    "identifier": "C735479D-2864-4042-843E-65A02128DDA4"
+                },
+                {
+                    "transform": [
+                        0.14084162,
+                        0,
+                        -0.9900322,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.9900322,
+                        0,
+                        0.14084163,
+                        0,
+                        2.17912,
+                        -0.9579887,
+                        2.2632873,
+                        1
+                    ],
+                    "dimensions": [
+                        0.515625,
+                        1.1091431,
+                        0.62548864
+                    ],
+                    "story": 0,
+                    "confidence": {
+                        "low": {}
+                    },
+                    "category": {
+                        "chair": {}
+                    },
+                    "attributes": {},
+                    "parentIdentifier": null,
+                    "identifier": "9D0A6392-DF43-4555-981E-E3FE7815003F"
+                }
+            ],
+            "floors": [
+                {
+                    "confidence": {
+                        "high": {}
+                    },
+                    "curve": null,
+                    "polygonCorners": [
+                        [
+                            -2.4365506,
+                            -1.8899087,
+                            0
+                        ],
+                        [
+                            -2.4365506,
+                            1.8899082,
+                            0
+                        ],
+                        [
+                            1.641816,
+                            1.8899083,
+                            0
+                        ],
+                        [
+                            1.6538312,
+                            0.88472825,
+                            0
+                        ],
+                        [
+                            2.0189986,
+                            0.8847284,
+                            0
+                        ],
+                        [
+                            2.0189986,
+                            0.43541056,
+                            0
+                        ],
+                        [
+                            2.436551,
+                            0.43541056,
+                            0
+                        ],
+                        [
+                            2.4365513,
+                            -0.46345437,
+                            0
+                        ],
+                        [
+                            0.8690398,
+                            -0.46345425,
+                            0
+                        ],
+                        [
+                            0.86904,
+                            -1.889908,
+                            0
+                        ]
+                    ],
+                    "dimensions": [
+                        4.8731017,
+                        3.779817,
+                        0
+                    ],
+                    "category": {
+                        "floor": {}
+                    },
+                    "parentIdentifier": null,
+                    "completedEdges": [
+                        {
+                            "right": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "top": {}
+                        },
+                        {
+                            "bottom": {}
+                        }
+                    ],
+                    "identifier": "9049AAB0-A274-4D04-A58D-6473D384A2B5",
+                    "transform": [
+                        0.16342045,
+                        0,
+                        -0.9865565,
+                        0,
+                        -0.9865565,
+                        0,
+                        -0.16342048,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        1.3541579,
+                        -1.4960004,
+                        1.0019505,
+                        1
+                    ],
+                    "story": 0
+                }
+            ],
+            "windows": [
+                {
+                    "curve": null,
+                    "polygonCorners": [],
+                    "parentIdentifier": "48B4F9DE-4639-4351-8493-4AC7F0DFD014",
+                    "confidence": {
+                        "high": {}
+                    },
+                    "story": 0,
+                    "dimensions": [
+                        1.4904671,
+                        1.0212411,
+                        0
+                    ],
+                    "completedEdges": [
+                        {
+                            "right": {}
+                        },
+                        {
+                            "left": {}
+                        },
+                        {
+                            "bottom": {}
+                        },
+                        {
+                            "top": {}
+                        }
+                    ],
+                    "category": {
+                        "window": {}
+                    },
+                    "transform": [
+                        -0.16337277,
+                        0,
+                        0.98656446,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        -0.98656446,
+                        0,
+                        -0.16337278,
+                        0,
+                        3.0972128,
+                        0.048835494,
+                        1.8981392,
+                        1
+                    ],
+                    "identifier": "3CF3C9B8-DE8E-4DEF-8966-59161DEFD578"
+                }
+            ]
+        }
+    ],
+    "sections": [
+        {
+            "center": [
+                1.9813492,
+                -0.2935002,
+                -3.0862017
+            ],
+            "story": 0,
+            "label": "bedroom"
+        },
+        {
+            "story": 0,
+            "label": "bedroom",
+            "center": [
+                1.1345508,
+                -0.2935002,
+                1.641104
+            ]
+        },
+        {
+            "label": "bedroom",
+            "story": 0,
+            "center": [
+                -2.3783672,
+                -0.2935002,
+                -0.11351919
+            ]
+        }
+    ],
+    "version": 2,
+    "floors": [
+        {
+            "completedEdges": [],
+            "confidence": {
+                "high": {}
+            },
+            "identifier": "6D4FE224-662A-46EF-B8B5-580076781528",
+            "category": {
+                "floor": {}
+            },
+            "transform": [
+                0.16185215,
+                0,
+                -0.9868151,
+                0,
+                -0.98681504,
+                0,
+                -0.16185215,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -0.29652286,
+                -1.5125602,
+                -0.98789597,
+                1
+            ],
+            "parentIdentifier": null,
+            "polygonCorners": [
+                [
+                    -4.1426353,
+                    -3.818453,
+                    0
+                ],
+                [
+                    -4.1426353,
+                    -0.022698164,
+                    0
+                ],
+                [
+                    -4.1426353,
+                    3.8184536,
+                    0
+                ],
+                [
+                    1.8016108,
+                    3.8184526,
+                    0
+                ],
+                [
+                    1.8016099,
+                    -0.022699535,
+                    0
+                ],
+                [
+                    4.1426353,
+                    -0.022700131,
+                    0
+                ],
+                [
+                    4.1426353,
+                    -3.8184538,
+                    0
+                ],
+                [
+                    0.7909078,
+                    -3.8184536,
+                    0
+                ],
+                [
+                    -0.7808912,
+                    -3.8184533,
+                    0
+                ]
+            ],
+            "curve": null,
+            "dimensions": [
+                8.285272,
+                7.6369085,
+                0
+            ],
+            "story": 0
+        }
+    ]
+}
