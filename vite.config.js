@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/room-viewer/',
+  base: '/floor_plan_leaflet_app/',
   resolve: {
     alias: {
       'react': 'react',
