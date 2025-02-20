@@ -24,25 +24,25 @@ const RoomVisualizer = () => {
         // const response = await window.fs.readFile('Room.json', { encoding: 'utf8' });
         // const data = JSON.parse(response);
         // setRoomData(data);
-          
-    // Calculate initial rotation based on longest wall
-    let longestWall = null;
-    let maxLength = 0;
-    
-    roomData.rooms.forEach(room => {
-      room.walls.forEach(wall => {
-      if (wall.dimensions[0] > maxLength) {
-        maxLength = wall.dimensions[0];
-        longestWall = wall;
-      }
-    });
-  });
+                  // Find the longest wall
+        let maxLength = 0;
+        let longestWallTransform = null;
+        roomData.rooms.forEach(room => {
+          room.walls.forEach(wall => {
+            if (wall.dimensions[0] > maxLength) {
+              maxLength = wall.dimensions[0];
+              longestWallTransform = wall.transform;
+            }
+          });
+        });
 
-  if (longestWall) {
-    // Extract rotation from transform matrix
-    const angle = Math.atan2(longestWall.transform[8], longestWall.transform[0]) * 180 / Math.PI;
-    setRotation(angle); // Apply rotation to align the floor plan
-  }
+        // Calculate rotation angle from longest wall
+        if (longestWallTransform) {
+          const wallDirX = longestWallTransform[0];
+          const wallDirZ = longestWallTransform[2];
+          const angle = Math.atan2(wallDirZ, wallDirX) * 180 / Math.PI;
+          setRotation(-angle);
+        }
       } catch (error) {
         console.error('Error loading data:', error);
       }
@@ -51,10 +51,20 @@ const RoomVisualizer = () => {
   }, []);
 
 
+  const rotatePoint = (point, angle) => {
+    const rad = angle * Math.PI / 180;
+    const cos = Math.cos(rad);
+    const sin = Math.sin(rad);
+    return [
+      point[0] * cos - point[1] * sin,
+      point[0] * sin + point[1] * cos
+    ];
+  };
+
   const transformPoint = (transform, point) => {
-    const x = -(transform[0] * point.x + transform[4] * point.y + transform[8] * point.z + transform[12]);
+    const x = (transform[0] * point.x + transform[4] * point.y + transform[8] * point.z + transform[12]);
     const y = -(transform[2] * point.x + transform[6] * point.y + transform[10] * point.z + transform[14]);
-    return [y, x];
+    return rotatePoint([y, x], rotation);
   };
 
   const getWallPoints = (wall) => {
@@ -124,7 +134,7 @@ const RoomVisualizer = () => {
               <Polyline
                 key={door.identifier}
                 positions={getWallPoints(door)}
-                pathOptions={{ color: '#000', fillColor: '#000',stroke:true, weight: 2, dashArray:"2", fillOpacity: 1 }}
+                pathOptions={{ color: '#000', fillColor: '#000',stroke:true, weight: 4, fillOpacity: 1 }}
               />
             ))}
 
@@ -147,11 +157,12 @@ const RoomVisualizer = () => {
           if (arrayMatch && rotationMatch) {
             const [x, y, z] = arrayMatch[1].split(', ').map(parseFloat);
             const position = [-z, -x];
+            const rotated = rotatePoint([-z, x], rotation);
             
             return (
               <Marker
                 key={photoId}
-                position={position}
+                position={rotated}
                 icon={customIcon}
               >
                 <Popup minWidth={400} maxWidth={800} maxHeight={600}>
